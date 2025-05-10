@@ -50,7 +50,7 @@
     `export DISPLAY="192.168.5.22:0.0"`
 5. 测试\
     输入`xclock`\
-    ![xclock图片](xclock.png)
+    ![xclock图片](img/xclock.png)
 
 ## [摄像头查询命令](https://blog.csdn.net/bzhao/article/details/143861716?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522e2417c6665bc546acae4edd9c89a8798%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=e2417c6665bc546acae4edd9c89a8798&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-143861716-null-null.142^v101^control&utm_term=linux%E6%9F%A5%E7%9C%8B%E6%91%84%E5%83%8F%E5%A4%B4%E7%9A%84%E4%BF%A1%E6%81%AF&spm=1018.2226.3001.4187)
 
