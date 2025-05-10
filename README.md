@@ -1,68 +1,90 @@
-<img src="./MD_Image/longqiu.png" style="zoom:80%;" />
+# 崔锦翔的龙芯学习笔记
 
-# 龙邱科技 龙芯2k300久久派开源例程库
+## MarkDown 语法学习
+[MarkDown学习网站链接](https://markdown.com.cn/basic-syntax/)
 
-### 1- 简介
-ls2k300-test-V1.0库，针对龙芯2k0300久久派常用外设资源和龙邱产品模块移植驱动例程，以方便参加智能车竞赛和使用我们产品的人入门学习使用。
+## [久久派使用SPI1通道驱动fbtft SSD1306屏幕](https://bbs.ctcisz.com/forum.php?mod=viewthread&tid=142&highlight=spi)
 
-工程默认使用开发环境为Linux系统下 ，可以使用Ubuntu或WSL，软件可使用VSCode，请自行修改工程路径相关配置。
+## [在嵌入式系统Kernel中增加UVC驱动支持](https://blog.csdn.net/u010034969/article/details/115210890)
 
-### 2- 开发环境
+## 内核编译流程
+*第一步*：在内核目录下命令行输入`loongarch64-linux-gnu-gcc -v`  如果打印出很多消息说明交叉工具链没问题，反之就检查原因。\
+*第二步*：输入`export ARCH=loongarch` 确认\
+*第三步*：输入`export CROSS_COMPILE=loongarch64-linux-gnu-`\
+*第四步*：输入`make menuconfig` 就可以。
 
-- 硬件平台：龙芯2k0300久久派/龙邱久久派拓展板
+## [久久派将U盘系统写入emmc](https://www.bilibili.com/video/BV1dGeweGEKn?vd_source=6256607faa34d7686985740f16533d25&spm_id_from=333.788.videopod.sections)
 
-<img src="./MD_Image/image-龙芯2k0300久久派.png" alt="image-20250303113807517" style="zoom:67%;" />
+## [99pai使用USB摄像头](https://bbs.ctcisz.com/forum.php?mod=viewthread&tid=116&extra=page%3D1)
 
-如需了解龙芯久久派拓展版相关信息，可点击链接：[龙芯久久派拓展板](https://item.taobao.com/item.htm?id=878340053033)了解详情。
+## WiFi相关操作
+#### 查看所有网络接口的状态
+`nmcli dev status`
+#### 查看网络是否启用
+`nmcli radio wifi`
+#### 启用WiFi
+`nmcli radio wifi on`
+#### 扫描附近WiFi
+`nmcli dev wifi list`
+#### 连接到WiFi
+`sudo nmcli dev wifi connect SSID`
+`sudo nmcli dev wifi connect "SSID" password "PASSWORD"`
+#### 查看所有已保存的连接
+`nmcli con show`
 
-<img src="./MD_Image/image-龙芯久久派拓展板.png" alt="image-20250303114029223" style="zoom:80%;" />
+## [使用MobaXterm x11-forwarding 开启图像界面](https://blog.csdn.net/weixin_50973728/article/details/129882910)
+1. 安装库文件\
+    sudo apt-get install xorg                   \
+    sudo apt-get install xauth                  \
+    sudo apt-get install openbox                \
+    sudo apt-get install xserver-xorg-legacy    \
+    sudo apt install x11-apps
+2. 打开x11转发,修改 /etc/ssh/sshd_config        \
+    ```bash
+    AllowTcpForwarding yes 
+    X11Forwarding yes
+    ```
+3. 重启sshd服务                                 \
+    `service sshd restart`
+4. 设置IP地址\
+    `export DISPLAY="192.168.5.22:0.0"`
+5. 测试\
+    输入`xclock`\
+    ![xclock图片](xclock.png)
 
-- 开发环境 VSCode 1.93 以上
+## [摄像头查询命令](https://blog.csdn.net/bzhao/article/details/143861716?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522e2417c6665bc546acae4edd9c89a8798%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=e2417c6665bc546acae4edd9c89a8798&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-143861716-null-null.142^v101^control&utm_term=linux%E6%9F%A5%E7%9C%8B%E6%91%84%E5%83%8F%E5%A4%B4%E7%9A%84%E4%BF%A1%E6%81%AF&spm=1018.2226.3001.4187)
 
-### 3- 使用说明
+#### 检查摄像头支持的分辨率
+`v4l2-ctl --list-formats-ext`
 
-1. 安装Ubuntu或WSL并安装VSCode环境
+#### 列出机子上所插的摄像头
+`v4l2-ctl --list-devices`
 
-2. 下载或克隆库，本链接或购买产品的附赠资料中
+#### 列出设备支持的像素格式
+`v4l2-ctl --list-formats -d /dev/video0`\
+列出详细信息：`v4l2-ctl  --list-formats-ext   -d /dev/video0`
 
-3. 打开软件导入工程。
+#### 驱动信息和控制项
+`v4l2-ctl --all  -d /dev/video0`
 
+#### 视频流参数
+`v4l2-ctl -d /dev/video1  --get-parm`
 
+#### 设定分辨率和像素格式
+`v4l2-ctl -d /dev/video1 --set-fmt-video=width=1280,height=960,pixelformat=MJPG`\
+验证: `v4l2-ctl -d /dev/video1   --get-fmt-video`
 
-### 4- 更新日志
+## 使用Python3解释器声明
+`#!/usr/bin/env python3`
 
-   1. 更新内容 详见工程目录下 Update-Note.txt或Version_Note.txt 文件
-
-
-​         
-
-###  5-其他核心板类开源库
-
-   龙邱-核心板类开源库百度网盘链接：[https://pan.baidu.com/s/1exDJTBU4HdRVE5ne6-5LCA](https://gitee.com/link?target=https%3A%2F%2Fpan.baidu.com%2Fs%2F1exDJTBU4HdRVE5ne6-5LCA) 提取码：7sa3
-
-   其他开源库，陆续整理中。。。后续也会同步gitee
-
-### 6-关于资讯
-
-   其他关于龙邱科技，智能车相关资讯，敬请关注龙邱官方微信公众号：
-
-   ![image-20250218135059980](./MD_Image/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
-
-   更多智能车和公司动态信息、文章会在此发布！
-
-
-
-
-----
-
-
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+```bash
+wpa_supplicant -B -i wlan0 -c wpa.conf
+udhcpc -i wlan0
+```
+```json
+network={
+    ssid="MEIZU"
+    key_mgmt=WPA-PSK
+    psk="88888888"
+}
+```
