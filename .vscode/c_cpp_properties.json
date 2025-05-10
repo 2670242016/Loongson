@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/include/",
+                "/usr/local/include/**",
+                "/home/zmr/Desktop/linux-4.19/include/**",
+                "/home/zmr/Desktop/linux-4.19/arch/loongarch/include/**",
+                "/home/zmr/Desktop/linux-4.19/arch/loongarch/include/generated/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}

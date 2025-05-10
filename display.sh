@@ -1,0 +1,2 @@
+export DISPLAY=172.20.10.4:10.0
+echo $DISPLAY

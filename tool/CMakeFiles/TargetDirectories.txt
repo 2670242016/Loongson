@@ -1,0 +1,3 @@
+/home/fhfh/Desktop/opencv_vscode/tool/CMakeFiles/main.dir
+/home/fhfh/Desktop/opencv_vscode/tool/CMakeFiles/edit_cache.dir
+/home/fhfh/Desktop/opencv_vscode/tool/CMakeFiles/rebuild_cache.dir
