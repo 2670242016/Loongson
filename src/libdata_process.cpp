@@ -564,6 +564,8 @@ void Judge::Protect_Thread(Data_Path * Data_Path_p)
     }
 }
 
+int jsonnum = 0; // 选择的json文件
+bool changetimes = 0;
 
 /*
     ConfigData_SYNC说明
@@ -579,10 +581,17 @@ void SYNC::ConfigData_SYNC(Data_Path *Data_Path_p,Function_EN *Function_EN_p,JSO
     int JSON_FileNum;
     const char* ConfigFilePath;
 
-    cout << "<---------------------JSON文件选择--------------------->" << endl;
-    cout << "0.低速参数\n1.中速参数\n2.高速参数" << endl;
-    cout << "参数选择：";
-    cin >> JSON_FileNum;
+    if (changetimes == 0){
+        cout << "<---------------------JSON文件选择--------------------->" << endl;
+        cout << "0.低速参数\n1.中速参数\n2.高速参数" << endl;
+        cout << "参数选择：";
+        cin >> JSON_FileNum;
+        changetimes = true;
+        jsonnum = JSON_FileNum;
+    }
+    else{
+        JSON_FileNum = jsonnum;
+    }
 
     switch(JSON_FileNum)
     {
@@ -594,6 +603,9 @@ void SYNC::ConfigData_SYNC(Data_Path *Data_Path_p,Function_EN *Function_EN_p,JSO
     ifstream ConfigFile(ConfigFilePath);
     nlohmann::json ConfigData = nlohmann::json::parse(ConfigFile);
 
+    JSON_PIDConfigData_p->speedl = ConfigData.at("SPEED_L");    // 获取电机低速
+    JSON_PIDConfigData_p->speedr = ConfigData.at("SPEED_R");    // 获取电机高速
+
     JSON_PIDConfigData_p->motorpid.Kp = ConfigData.at("MOTOR_KP");
     JSON_PIDConfigData_p->motorpid.Ki = ConfigData.at("MOTOR_KI");
     JSON_PIDConfigData_p->motorpid.Kd = ConfigData.at("MOTOR_KD");
@@ -601,6 +613,14 @@ void SYNC::ConfigData_SYNC(Data_Path *Data_Path_p,Function_EN *Function_EN_p,JSO
     JSON_PIDConfigData_p->motorpid.Ilimit = ConfigData.at("MOTOR_IL");
     JSON_PIDConfigData_p->motorpid.Dlimit = ConfigData.at("MOTOR_DL");
     JSON_PIDConfigData_p->motorpid.Reslimit = ConfigData.at("MOTOR_RESL");
+
+    JSON_PIDConfigData_p->pixelpid.Kp = ConfigData.at("PIXEL_KP");
+    JSON_PIDConfigData_p->pixelpid.Ki = ConfigData.at("PIXEL_KI");
+    JSON_PIDConfigData_p->pixelpid.Kd = ConfigData.at("PIXEL_KD");
+    JSON_PIDConfigData_p->pixelpid.Plimit = ConfigData.at("PIXEL_PL");
+    JSON_PIDConfigData_p->pixelpid.Ilimit = ConfigData.at("PIXEL_IL");
+    JSON_PIDConfigData_p->pixelpid.Dlimit = ConfigData.at("PIXEL_DL");
+    JSON_PIDConfigData_p->pixelpid.Reslimit = ConfigData.at("PIXEL_RESL");
 
     JSON_PIDConfigData_p->servopid.Kp = ConfigData.at("SERVO_KP");
     JSON_PIDConfigData_p->servopid.Ki = ConfigData.at("SERVO_KI");
@@ -617,9 +637,6 @@ void SYNC::ConfigData_SYNC(Data_Path *Data_Path_p,Function_EN *Function_EN_p,JSO
     JSON_PIDConfigData_p->anglespeedpid.Ilimit = ConfigData.at("ANGLE_IL");
     JSON_PIDConfigData_p->anglespeedpid.Dlimit = ConfigData.at("ANGLE_DL");
     JSON_PIDConfigData_p->anglespeedpid.Reslimit = ConfigData.at("ANGLE_RESL");
-
-    JSON_PIDConfigData_p->anglespeedpid.Kp = ConfigData.at("ANGLE_SPEED_PIXELOFFSET_KP");
-    JSON_PIDConfigData_p->anglespeedpid.Reslimit = ConfigData.at("ANGLE_SPEED_RESL");
 
     JSON_FunctionConfigData.imgshownum = ConfigData.at("IMG_SHOW_NUM");    // 获取图像显示帧数
     JSON_FunctionConfigData.cap_exposure = ConfigData.at("CAP_EXPOSURE");    // 设置摄像头曝光

@@ -85,6 +85,11 @@ typedef struct JSON_PIDConfigData
 
     PID servopid;
 
+    PID pixelpid;
+
+    int speedl;
+    int speedr;
+
 }JSON_PIDConfigData;
 
 

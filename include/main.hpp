@@ -74,6 +74,15 @@ extern Point point;
 #define ENCODER_1               "/dev/zf_encoder_1"
 #define ENCODER_2               "/dev/zf_encoder_2"
 
+
+#define KEY_0       "/dev/zf_driver_gpio_key_0"
+#define KEY_1       "/dev/zf_driver_gpio_key_1"
+#define KEY_2       "/dev/zf_driver_gpio_key_2"
+#define KEY_3       "/dev/zf_driver_gpio_key_3"
+#define SWITCH_0    "/dev/zf_driver_gpio_switch_0"
+#define SWITCH_1    "/dev/zf_driver_gpio_switch_1"
+
+
 // 定义主板上舵机频率  请务必注意范围 50-300
 // 如果要修改，需要直接修改设备树。
 #define SERVO_MOTOR_FREQ            (servo_pwm_info.freq)                       
@@ -82,8 +91,8 @@ extern Point point;
 #define PWM_DUTY_MAX                (servo_pwm_info.duty_max)      
 
 // 定义主板上舵机活动范围 角度                                                     
-#define SERVO_MOTOR_L_MAX           (0 )                       
-#define SERVO_MOTOR_R_MAX           (35)                       
+#define SERVO_MOTOR_L_MAX           (73 )                       
+#define SERVO_MOTOR_R_MAX           (107)                       
 
 #define SERVO_MOTOR_DUTY(x)         ((float)PWM_DUTY_MAX/(1000.0/(float)SERVO_MOTOR_FREQ)*(0.5+(float)(x)/90.0))
 

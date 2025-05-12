@@ -1,3 +1,3 @@
 cd build
 make -j16
-scp main root@192.168.32.24:/home/root
+scp main root@172.24.83.210:/home/root

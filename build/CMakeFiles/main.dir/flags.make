@@ -4,7 +4,7 @@
 # compile CXX with /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/opencv_4_10_build/include/opencv4
+CXX_INCLUDES = -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4
 
-CXX_FLAGS = 
+CXX_FLAGS = -g
 

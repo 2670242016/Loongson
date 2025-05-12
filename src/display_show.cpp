@@ -31,3 +31,17 @@ void displayMatOnIPS200(const cv::Mat& img) {
         }
     }
 }
+
+void display_data(int y,const char dat[],int data,int num)
+{
+    ips200_show_string(0,16*y,dat);
+    ips200_show_int(8*(strlen(dat)),16*y,int32(data),num);
+}
+
+void display_dataf(int y,const char dat[],float data,int num1,int num2)
+{
+    ips200_show_string(0,16*y,dat);
+    ips200_show_float(8*(strlen(dat)),16*y,data,num1,num2);
+}
+
+

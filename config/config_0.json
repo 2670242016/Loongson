@@ -1,4 +1,8 @@
 {
+	
+	"SPEEDL" : 8,
+	"SPEEDR" : 8,
+
 	"CAP_EXPOSURE" : 0.1,
 	"EXPOSURE_AUTO" : 0.25,
 
@@ -27,9 +31,6 @@
 	"SERVO_IL" : 0.0,
 	"SERVO_DL" : 20.0,
 	"SERVO_RESL" : 40.0,
-
-	"ANGLE_SPEED_PIXELOFFSET_KP" : 0.1,
-	"ANGLE_SPEED_RESL" : 1.0,
 
 	"UART_EN" : true,
 	"IMG_COMPRESS_EN" : false,

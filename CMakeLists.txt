@@ -18,13 +18,13 @@ include_directories(./include/control)
 link_libraries(pthread)
 
 # 指定OpenCV所用头文件路径
-include_directories(/home/zmr/Desktop/opencv_4_10_build/include/opencv4/)
+include_directories(/home/zmr/Desktop/install/include/opencv4/)
 # 找到opencv所需的库文件并保存到变量中
-find_library(OPENCV_CORE      opencv_core      PATHS /home/zmr/Desktop/opencv_4_10_build/lib)
-find_library(OPENCV_IMGPROC   opencv_imgproc   PATHS /home/zmr/Desktop/opencv_4_10_build/lib)
-find_library(OPENCV_HIGHGUI   opencv_highgui   PATHS /home/zmr/Desktop/opencv_4_10_build/lib)
-find_library(OPENCV_VIDEOIO   opencv_videoio   PATHS /home/zmr/Desktop/opencv_4_10_build/lib)
-find_library(OPENCV_IMGCODECS opencv_imgcodecs PATHS /home/zmr/Desktop/opencv_4_10_build/lib)
+find_library(OPENCV_CORE      opencv_core      PATHS /home/zmr/Desktop/install/lib)
+find_library(OPENCV_IMGPROC   opencv_imgproc   PATHS /home/zmr/Desktop/install/lib)
+find_library(OPENCV_HIGHGUI   opencv_highgui   PATHS /home/zmr/Desktop/install/lib)
+find_library(OPENCV_VIDEOIO   opencv_videoio   PATHS /home/zmr/Desktop/install/lib)
+find_library(OPENCV_IMGCODECS opencv_imgcodecs PATHS /home/zmr/Desktop/install/lib)
 
 # set(CMAKE_PREFIX_PATH "/home/zmr/Desktop/opencv_4_10_build") 
 

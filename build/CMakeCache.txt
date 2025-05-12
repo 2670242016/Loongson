@@ -20,15 +20,14 @@ CMAKE_ADDR2LINE:FILEPATH=/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linu
 //Path to a program.
 CMAKE_AR:FILEPATH=/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-ar
 
-//Choose the type of build, options are: None Debug Release RelWithDebInfo
-// MinSizeRel ...
-CMAKE_BUILD_TYPE:STRING=
+//No help, variable specified on the command line.
+CMAKE_BUILD_TYPE:STRING=Debug
 
 //Enable/Disable color output during build.
 CMAKE_COLOR_MAKEFILE:BOOL=ON
 
-//CXX compiler
-CMAKE_CXX_COMPILER:STRING=/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++
+//No help, variable specified on the command line.
+CMAKE_CXX_COMPILER:FILEPATH=/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++
 
 //A wrapper around 'ar' adding the appropriate '--plugin' option
 // for the GCC compiler
@@ -53,8 +52,8 @@ CMAKE_CXX_FLAGS_RELEASE:STRING=-O3 -DNDEBUG
 //Flags used by the CXX compiler during RELWITHDEBINFO builds.
 CMAKE_CXX_FLAGS_RELWITHDEBINFO:STRING=-O2 -g -DNDEBUG
 
-//C compiler
-CMAKE_C_COMPILER:STRING=/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-gcc
+//No help, variable specified on the command line.
+CMAKE_C_COMPILER:FILEPATH=/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-gcc
 
 //A wrapper around 'ar' adding the appropriate '--plugin' option
 // for the GCC compiler
@@ -97,8 +96,8 @@ CMAKE_EXE_LINKER_FLAGS_RELEASE:STRING=
 //Flags used by the linker during RELWITHDEBINFO builds.
 CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 
-//Enable/Disable output of compile commands during generation.
-CMAKE_EXPORT_COMPILE_COMMANDS:BOOL=OFF
+//No help, variable specified on the command line.
+CMAKE_EXPORT_COMPILE_COMMANDS:BOOL=TRUE
 
 //CMake Find Root Path
 CMAKE_FIND_ROOT_PATH:PATH=/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu
@@ -231,19 +230,19 @@ CMAKE_SYSTEM_VERSION:STRING=
 CMAKE_VERBOSE_MAKEFILE:BOOL=OFF
 
 //Path to a library.
-OPENCV_CORE:FILEPATH=/home/zmr/Desktop/opencv_4_10_build/lib/libopencv_core.so
+OPENCV_CORE:FILEPATH=/home/zmr/Desktop/install/lib/libopencv_core.so
 
 //Path to a library.
-OPENCV_HIGHGUI:FILEPATH=/home/zmr/Desktop/opencv_4_10_build/lib/libopencv_highgui.so
+OPENCV_HIGHGUI:FILEPATH=/home/zmr/Desktop/install/lib/libopencv_highgui.so
 
 //Path to a library.
-OPENCV_IMGCODECS:FILEPATH=/home/zmr/Desktop/opencv_4_10_build/lib/libopencv_imgcodecs.so
+OPENCV_IMGCODECS:FILEPATH=/home/zmr/Desktop/install/lib/libopencv_imgcodecs.so
 
 //Path to a library.
-OPENCV_IMGPROC:FILEPATH=/home/zmr/Desktop/opencv_4_10_build/lib/libopencv_imgproc.so
+OPENCV_IMGPROC:FILEPATH=/home/zmr/Desktop/install/lib/libopencv_imgproc.so
 
 //Path to a library.
-OPENCV_VIDEOIO:FILEPATH=/home/zmr/Desktop/opencv_4_10_build/lib/libopencv_videoio.so
+OPENCV_VIDEOIO:FILEPATH=/home/zmr/Desktop/install/lib/libopencv_videoio.so
 
 //Value Computed by CMake
 main_BINARY_DIR:STATIC=/home/zmr/Desktop/opencv_vscode/build

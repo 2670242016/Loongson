@@ -4,10 +4,10 @@
 CMakeFiles/main.dir/main.cpp.o: ../main.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/stdc-predef.h \
   ../include/main.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgcodecs.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/version.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgcodecs.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/version.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/limits \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/c++config.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/os_defines.h \
@@ -18,7 +18,7 @@ CMakeFiles/main.dir/main.cpp.o: ../main.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/gnu/stubs.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/gnu/stubs-lp64.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/cpu_defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/hal/interface.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/hal/interface.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstddef \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include/stddef.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstdint \
@@ -30,9 +30,9 @@ CMakeFiles/main.dir/main.cpp.o: ../main.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/wchar.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/stdint-intn.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/stdint-uintn.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/base.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv_modules.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/base.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/opencv_modules.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/climits \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/limits.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/syslimits.h \
@@ -110,7 +110,7 @@ CMakeFiles/main.dir/main.cpp.o: ../main.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/alloc_traits.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/memoryfwd.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/uniform_int_dist.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstring \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/string.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/strings.h \
@@ -188,7 +188,7 @@ CMakeFiles/main.dir/main.cpp.o: ../main.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/mathcalls.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/mathcalls-narrow.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/iscanonical.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/memory \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_uninitialized.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_raw_storage_iter.h \
@@ -208,28 +208,28 @@ CMakeFiles/main.dir/main.cpp.o: ../main.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/atomic_base.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/atomic_lockfree_defines.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/backward/auto_ptr.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/neon_utils.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/vsx_utils.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/neon_utils.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/vsx_utils.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/assert.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/check.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/traits.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/saturate.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/fast_math.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/types.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/check.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/traits.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/saturate.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/fast_math.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/types.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cfloat \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include/float.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/vector \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_vector.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_bvector.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/vector.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/bufferpool.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/persistence.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/operations.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/bufferpool.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/persistence.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/operations.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.inl.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/complex \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/sstream \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/istream \
@@ -255,7 +255,7 @@ CMakeFiles/main.dir/main.cpp.o: ../main.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/ostream.tcc \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/istream.tcc \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/sstream.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utility.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utility.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/functional \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/std_function.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/mutex \
@@ -264,13 +264,13 @@ CMakeFiles/main.dir/main.cpp.o: ../main.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/ctime \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/parse_numbers.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/std_mutex.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/optim.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/ovx.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/highgui.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/videoio.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc/segmentation.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/optim.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/ovx.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/highgui.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/videoio.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc/segmentation.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iostream \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iomanip \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/locale \
@@ -285,107 +285,107 @@ CMakeFiles/main.dir/main.cpp.o: ../main.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/math.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/stdlib.h \
   ../include/base.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/calib3d.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/features2d.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/miniflann.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/config.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/affine.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.defines.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logtag.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/async.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/version.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dict.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/opencv.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/calib3d.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/features2d.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/miniflann.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/config.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/affine.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.defines.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logtag.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/async.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/version.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dict.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/map \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_tree.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_map.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_multimap.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/layer.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/utils/inference_engine.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/flann_base.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/general.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/matrix.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/params.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/any.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/saving.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/nn_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/result_set.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/layer.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/utils/inference_engine.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/flann_base.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/general.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/matrix.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/params.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/any.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/saving.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/nn_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/result_set.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/set \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_set.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_multiset.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/all_indices.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dynamic_bitset.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dist.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/heap.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/all_indices.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/dynamic_bitset.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/dist.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/heap.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/unordered_map \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/hashtable.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/hashtable_policy.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/unordered_map.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/allocator.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/random.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_single_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kmeans_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/logger.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/composite_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/linear_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/hierarchical_clustering_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_table.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/autotuned_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/ground_truth.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/index_testing.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/timer.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/sampling.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml/ml.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_board.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/face.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/barcode.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/photo.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda_types.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/allocator.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/random.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_single_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kmeans_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/logger.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/composite_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/linear_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/hierarchical_clustering_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_table.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/autotuned_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/ground_truth.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/index_testing.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/timer.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/sampling.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/ml.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/ml/ml.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_board.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/face.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/barcode.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/photo.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda_types.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/list \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_list.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/list.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util_inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util_inl.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/queue \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/deque \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_deque.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/deque.tcc \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_queue.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/seam_finders.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/blenders.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/tracking.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/background_segm.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/seam_finders.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/blenders.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video/tracking.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video/background_segm.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/unistd.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/posix_opt.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/environments.h \
@@ -759,15 +759,15 @@ CMakeFiles/main.dir/src/Perspective.cpp.o: ../src/Perspective.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/mutex \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/std_mutex.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/thread \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv_modules.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/version.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/hal/interface.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/opencv.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/opencv_modules.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/version.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/hal/interface.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstddef \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/base.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/base.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/climits \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/limits.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/syslimits.h \
@@ -778,86 +778,86 @@ CMakeFiles/main.dir/src/Perspective.cpp.o: ../src/Perspective.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/posix2_lim.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/xopen_lim.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/uio_lim.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstring \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/string.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/strings.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/neon_utils.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/vsx_utils.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/neon_utils.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/vsx_utils.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/assert.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/check.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/traits.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/saturate.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/fast_math.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/types.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/check.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/traits.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/saturate.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/fast_math.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/types.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cfloat \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include/float.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/bufferpool.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/persistence.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/operations.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/bufferpool.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/persistence.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/operations.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.inl.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/complex \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/sstream \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/sstream.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utility.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/optim.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/ovx.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/calib3d.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/features2d.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/miniflann.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/config.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/affine.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.defines.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logtag.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/async.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/version.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dict.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utility.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/optim.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/ovx.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/calib3d.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/features2d.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/miniflann.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/config.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/affine.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.defines.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logtag.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/async.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/version.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dict.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/map \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_tree.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_map.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_multimap.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/layer.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/utils/inference_engine.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/flann_base.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/general.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/matrix.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/params.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/any.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/saving.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/nn_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/result_set.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/layer.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/utils/inference_engine.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/flann_base.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/general.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/matrix.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/params.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/any.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/saving.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/nn_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/result_set.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/set \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_set.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_multiset.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/all_indices.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dynamic_bitset.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dist.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/heap.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/allocator.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/random.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_single_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kmeans_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/logger.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/composite_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/linear_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/hierarchical_clustering_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_table.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/all_indices.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/dynamic_bitset.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/dist.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/heap.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/allocator.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/random.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_single_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kmeans_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/logger.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/composite_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/linear_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/hierarchical_clustering_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_table.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iomanip \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/locale \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_facets_nonio.h \
@@ -868,57 +868,57 @@ CMakeFiles/main.dir/src/Perspective.cpp.o: ../src/Perspective.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_conv.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/quoted_string.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/math.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/autotuned_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/ground_truth.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/index_testing.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/timer.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/sampling.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/highgui.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgcodecs.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/videoio.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc/segmentation.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml/ml.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_board.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/face.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/barcode.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/photo.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda_types.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/autotuned_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/ground_truth.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/index_testing.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/timer.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/sampling.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/highgui.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgcodecs.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/videoio.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc/segmentation.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/ml.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/ml/ml.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_board.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/face.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/barcode.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/photo.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda_types.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/list \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_list.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/list.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util_inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util_inl.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/queue \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/deque \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_deque.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/deque.tcc \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_queue.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/seam_finders.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/blenders.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/tracking.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/background_segm.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/seam_finders.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/blenders.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video/tracking.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video/background_segm.hpp \
   ../include/json.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iterator \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stream_iterator.h \
@@ -951,10 +951,10 @@ CMakeFiles/main.dir/src/carControl.cpp.o: ../src/carControl.cpp \
   ../include/carControl.h \
   ../include/AAAdefine.h \
   ../include/main.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgcodecs.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/version.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgcodecs.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/version.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/limits \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/c++config.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/os_defines.h \
@@ -965,7 +965,7 @@ CMakeFiles/main.dir/src/carControl.cpp.o: ../src/carControl.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/gnu/stubs.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/gnu/stubs-lp64.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/cpu_defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/hal/interface.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/hal/interface.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstddef \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include/stddef.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstdint \
@@ -977,9 +977,9 @@ CMakeFiles/main.dir/src/carControl.cpp.o: ../src/carControl.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/wchar.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/stdint-intn.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/stdint-uintn.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/base.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv_modules.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/base.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/opencv_modules.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/climits \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/limits.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/syslimits.h \
@@ -1057,7 +1057,7 @@ CMakeFiles/main.dir/src/carControl.cpp.o: ../src/carControl.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/alloc_traits.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/memoryfwd.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/uniform_int_dist.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstring \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/string.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/strings.h \
@@ -1135,7 +1135,7 @@ CMakeFiles/main.dir/src/carControl.cpp.o: ../src/carControl.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/mathcalls.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/mathcalls-narrow.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/iscanonical.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/memory \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_uninitialized.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_raw_storage_iter.h \
@@ -1155,28 +1155,28 @@ CMakeFiles/main.dir/src/carControl.cpp.o: ../src/carControl.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/atomic_base.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/atomic_lockfree_defines.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/backward/auto_ptr.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/neon_utils.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/vsx_utils.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/neon_utils.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/vsx_utils.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/assert.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/check.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/traits.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/saturate.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/fast_math.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/types.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/check.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/traits.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/saturate.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/fast_math.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/types.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cfloat \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include/float.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/vector \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_vector.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_bvector.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/vector.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/bufferpool.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/persistence.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/operations.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/bufferpool.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/persistence.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/operations.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.inl.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/complex \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/sstream \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/istream \
@@ -1202,7 +1202,7 @@ CMakeFiles/main.dir/src/carControl.cpp.o: ../src/carControl.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/ostream.tcc \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/istream.tcc \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/sstream.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utility.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utility.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/functional \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/std_function.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/mutex \
@@ -1211,13 +1211,13 @@ CMakeFiles/main.dir/src/carControl.cpp.o: ../src/carControl.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/ctime \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/parse_numbers.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/std_mutex.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/optim.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/ovx.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/highgui.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/videoio.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc/segmentation.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/optim.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/ovx.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/highgui.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/videoio.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc/segmentation.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iostream \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iomanip \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/locale \
@@ -1232,107 +1232,107 @@ CMakeFiles/main.dir/src/carControl.cpp.o: ../src/carControl.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/math.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/stdlib.h \
   ../include/base.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/calib3d.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/features2d.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/miniflann.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/config.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/affine.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.defines.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logtag.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/async.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/version.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dict.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/opencv.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/calib3d.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/features2d.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/miniflann.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/config.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/affine.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.defines.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logtag.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/async.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/version.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dict.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/map \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_tree.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_map.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_multimap.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/layer.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/utils/inference_engine.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/flann_base.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/general.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/matrix.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/params.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/any.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/saving.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/nn_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/result_set.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/layer.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/utils/inference_engine.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/flann_base.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/general.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/matrix.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/params.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/any.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/saving.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/nn_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/result_set.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/set \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_set.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_multiset.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/all_indices.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dynamic_bitset.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dist.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/heap.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/all_indices.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/dynamic_bitset.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/dist.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/heap.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/unordered_map \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/hashtable.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/hashtable_policy.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/unordered_map.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/allocator.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/random.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_single_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kmeans_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/logger.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/composite_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/linear_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/hierarchical_clustering_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_table.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/autotuned_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/ground_truth.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/index_testing.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/timer.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/sampling.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml/ml.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_board.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/face.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/barcode.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/photo.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda_types.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/allocator.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/random.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_single_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kmeans_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/logger.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/composite_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/linear_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/hierarchical_clustering_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_table.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/autotuned_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/ground_truth.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/index_testing.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/timer.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/sampling.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/ml.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/ml/ml.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_board.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/face.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/barcode.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/photo.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda_types.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/list \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_list.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/list.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util_inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util_inl.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/queue \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/deque \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_deque.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/deque.tcc \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_queue.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/seam_finders.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/blenders.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/tracking.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/background_segm.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/seam_finders.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/blenders.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video/tracking.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video/background_segm.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/unistd.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/posix_opt.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/environments.h \
@@ -1455,10 +1455,10 @@ CMakeFiles/main.dir/src/display_show.cpp.o: ../src/display_show.cpp \
   ../include/display_show.h \
   ../include/AAAdefine.h \
   ../include/main.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgcodecs.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/version.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgcodecs.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/version.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/limits \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/c++config.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/os_defines.h \
@@ -1469,7 +1469,7 @@ CMakeFiles/main.dir/src/display_show.cpp.o: ../src/display_show.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/gnu/stubs.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/gnu/stubs-lp64.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/cpu_defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/hal/interface.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/hal/interface.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstddef \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include/stddef.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstdint \
@@ -1481,9 +1481,9 @@ CMakeFiles/main.dir/src/display_show.cpp.o: ../src/display_show.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/wchar.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/stdint-intn.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/stdint-uintn.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/base.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv_modules.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/base.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/opencv_modules.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/climits \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/limits.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/syslimits.h \
@@ -1561,7 +1561,7 @@ CMakeFiles/main.dir/src/display_show.cpp.o: ../src/display_show.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/alloc_traits.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/memoryfwd.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/uniform_int_dist.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstring \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/string.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/strings.h \
@@ -1639,7 +1639,7 @@ CMakeFiles/main.dir/src/display_show.cpp.o: ../src/display_show.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/mathcalls.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/mathcalls-narrow.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/iscanonical.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/memory \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_uninitialized.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_raw_storage_iter.h \
@@ -1659,28 +1659,28 @@ CMakeFiles/main.dir/src/display_show.cpp.o: ../src/display_show.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/atomic_base.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/atomic_lockfree_defines.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/backward/auto_ptr.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/neon_utils.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/vsx_utils.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/neon_utils.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/vsx_utils.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/assert.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/check.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/traits.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/saturate.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/fast_math.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/types.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/check.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/traits.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/saturate.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/fast_math.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/types.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cfloat \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include/float.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/vector \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_vector.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_bvector.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/vector.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/bufferpool.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/persistence.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/operations.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/bufferpool.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/persistence.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/operations.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.inl.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/complex \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/sstream \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/istream \
@@ -1706,7 +1706,7 @@ CMakeFiles/main.dir/src/display_show.cpp.o: ../src/display_show.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/ostream.tcc \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/istream.tcc \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/sstream.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utility.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utility.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/functional \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/std_function.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/mutex \
@@ -1715,13 +1715,13 @@ CMakeFiles/main.dir/src/display_show.cpp.o: ../src/display_show.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/ctime \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/parse_numbers.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/std_mutex.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/optim.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/ovx.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/highgui.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/videoio.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc/segmentation.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/optim.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/ovx.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/highgui.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/videoio.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc/segmentation.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iostream \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iomanip \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/locale \
@@ -1736,107 +1736,107 @@ CMakeFiles/main.dir/src/display_show.cpp.o: ../src/display_show.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/math.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/stdlib.h \
   ../include/base.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/calib3d.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/features2d.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/miniflann.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/config.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/affine.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.defines.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logtag.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/async.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/version.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dict.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/opencv.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/calib3d.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/features2d.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/miniflann.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/config.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/affine.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.defines.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logtag.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/async.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/version.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dict.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/map \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_tree.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_map.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_multimap.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/layer.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/utils/inference_engine.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/flann_base.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/general.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/matrix.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/params.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/any.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/saving.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/nn_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/result_set.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/layer.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/utils/inference_engine.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/flann_base.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/general.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/matrix.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/params.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/any.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/saving.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/nn_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/result_set.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/set \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_set.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_multiset.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/all_indices.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dynamic_bitset.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dist.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/heap.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/all_indices.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/dynamic_bitset.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/dist.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/heap.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/unordered_map \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/hashtable.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/hashtable_policy.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/unordered_map.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/allocator.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/random.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_single_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kmeans_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/logger.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/composite_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/linear_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/hierarchical_clustering_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_table.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/autotuned_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/ground_truth.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/index_testing.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/timer.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/sampling.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml/ml.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_board.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/face.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/barcode.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/photo.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda_types.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/allocator.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/random.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_single_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kmeans_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/logger.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/composite_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/linear_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/hierarchical_clustering_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_table.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/autotuned_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/ground_truth.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/index_testing.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/timer.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/sampling.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/ml.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/ml/ml.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_board.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/face.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/barcode.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/photo.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda_types.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/list \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_list.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/list.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util_inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util_inl.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/queue \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/deque \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_deque.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/deque.tcc \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_queue.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/seam_finders.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/blenders.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/tracking.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/background_segm.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/seam_finders.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/blenders.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video/tracking.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video/background_segm.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/unistd.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/posix_opt.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/environments.h \
@@ -2203,15 +2203,15 @@ CMakeFiles/main.dir/src/libdata_process.cpp.o: ../src/libdata_process.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/mutex \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/std_mutex.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/thread \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv_modules.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/version.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/hal/interface.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/opencv.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/opencv_modules.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/version.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/hal/interface.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstddef \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/base.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/base.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/climits \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/limits.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/syslimits.h \
@@ -2222,86 +2222,86 @@ CMakeFiles/main.dir/src/libdata_process.cpp.o: ../src/libdata_process.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/posix2_lim.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/xopen_lim.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/uio_lim.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstring \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/string.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/strings.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/neon_utils.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/vsx_utils.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/neon_utils.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/vsx_utils.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/assert.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/check.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/traits.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/saturate.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/fast_math.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/types.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/check.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/traits.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/saturate.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/fast_math.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/types.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cfloat \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include/float.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/bufferpool.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/persistence.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/operations.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/bufferpool.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/persistence.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/operations.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.inl.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/complex \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/sstream \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/sstream.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utility.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/optim.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/ovx.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/calib3d.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/features2d.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/miniflann.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/config.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/affine.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.defines.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logtag.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/async.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/version.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dict.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utility.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/optim.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/ovx.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/calib3d.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/features2d.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/miniflann.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/config.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/affine.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.defines.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logtag.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/async.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/version.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dict.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/map \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_tree.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_map.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_multimap.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/layer.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/utils/inference_engine.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/flann_base.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/general.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/matrix.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/params.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/any.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/saving.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/nn_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/result_set.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/layer.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/utils/inference_engine.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/flann_base.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/general.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/matrix.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/params.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/any.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/saving.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/nn_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/result_set.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/set \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_set.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_multiset.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/all_indices.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dynamic_bitset.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dist.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/heap.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/allocator.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/random.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_single_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kmeans_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/logger.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/composite_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/linear_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/hierarchical_clustering_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_table.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/all_indices.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/dynamic_bitset.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/dist.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/heap.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/allocator.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/random.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_single_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kmeans_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/logger.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/composite_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/linear_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/hierarchical_clustering_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_table.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iomanip \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/locale \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_facets_nonio.h \
@@ -2312,57 +2312,57 @@ CMakeFiles/main.dir/src/libdata_process.cpp.o: ../src/libdata_process.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_conv.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/quoted_string.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/math.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/autotuned_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/ground_truth.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/index_testing.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/timer.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/sampling.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/highgui.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgcodecs.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/videoio.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc/segmentation.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml/ml.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_board.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/face.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/barcode.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/photo.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda_types.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/autotuned_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/ground_truth.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/index_testing.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/timer.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/sampling.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/highgui.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgcodecs.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/videoio.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc/segmentation.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/ml.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/ml/ml.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_board.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/face.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/barcode.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/photo.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda_types.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/list \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_list.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/list.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util_inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util_inl.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/queue \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/deque \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_deque.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/deque.tcc \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_queue.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/seam_finders.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/blenders.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/tracking.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/background_segm.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/seam_finders.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/blenders.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video/tracking.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video/background_segm.hpp \
   ../include/json.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iterator \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stream_iterator.h \
@@ -2641,15 +2641,15 @@ CMakeFiles/main.dir/src/libimage_process.cpp.o: ../src/libimage_process.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/mutex \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/std_mutex.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/thread \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv_modules.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/version.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/hal/interface.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/opencv.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/opencv_modules.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/version.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/hal/interface.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstddef \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/base.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/base.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/climits \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/limits.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/syslimits.h \
@@ -2660,86 +2660,86 @@ CMakeFiles/main.dir/src/libimage_process.cpp.o: ../src/libimage_process.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/posix2_lim.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/xopen_lim.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/uio_lim.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstring \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/string.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/strings.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/neon_utils.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/vsx_utils.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/neon_utils.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/vsx_utils.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/assert.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/check.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/traits.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/saturate.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/fast_math.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/types.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/check.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/traits.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/saturate.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/fast_math.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/types.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cfloat \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include/float.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/bufferpool.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/persistence.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/operations.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/bufferpool.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/persistence.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/operations.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.inl.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/complex \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/sstream \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/sstream.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utility.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/optim.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/ovx.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/calib3d.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/features2d.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/miniflann.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/config.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/affine.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.defines.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logtag.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/async.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/version.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dict.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utility.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/optim.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/ovx.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/calib3d.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/features2d.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/miniflann.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/config.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/affine.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.defines.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logtag.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/async.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/version.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dict.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/map \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_tree.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_map.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_multimap.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/layer.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/utils/inference_engine.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/flann_base.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/general.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/matrix.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/params.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/any.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/saving.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/nn_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/result_set.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/layer.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/utils/inference_engine.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/flann_base.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/general.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/matrix.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/params.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/any.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/saving.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/nn_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/result_set.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/set \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_set.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_multiset.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/all_indices.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dynamic_bitset.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dist.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/heap.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/allocator.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/random.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_single_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kmeans_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/logger.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/composite_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/linear_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/hierarchical_clustering_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_table.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/all_indices.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/dynamic_bitset.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/dist.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/heap.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/allocator.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/random.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_single_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kmeans_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/logger.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/composite_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/linear_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/hierarchical_clustering_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_table.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iomanip \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/locale \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_facets_nonio.h \
@@ -2750,57 +2750,57 @@ CMakeFiles/main.dir/src/libimage_process.cpp.o: ../src/libimage_process.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_conv.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/quoted_string.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/math.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/autotuned_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/ground_truth.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/index_testing.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/timer.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/sampling.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/highgui.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgcodecs.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/videoio.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc/segmentation.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml/ml.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_board.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/face.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/barcode.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/photo.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda_types.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/autotuned_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/ground_truth.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/index_testing.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/timer.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/sampling.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/highgui.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgcodecs.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/videoio.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc/segmentation.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/ml.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/ml/ml.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_board.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/face.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/barcode.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/photo.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda_types.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/list \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_list.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/list.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util_inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util_inl.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/queue \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/deque \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_deque.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/deque.tcc \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_queue.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/seam_finders.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/blenders.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/tracking.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/background_segm.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/seam_finders.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/blenders.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video/tracking.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video/background_segm.hpp \
   ../include/json.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iterator \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stream_iterator.h \
@@ -3080,15 +3080,15 @@ CMakeFiles/main.dir/src/mycross.cpp.o: ../src/mycross.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/mutex \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/std_mutex.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/thread \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv_modules.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/version.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/hal/interface.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/opencv.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/opencv_modules.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/version.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/hal/interface.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstddef \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/base.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/base.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/climits \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/limits.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/syslimits.h \
@@ -3099,86 +3099,86 @@ CMakeFiles/main.dir/src/mycross.cpp.o: ../src/mycross.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/posix2_lim.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/xopen_lim.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/uio_lim.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstring \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/string.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/strings.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/neon_utils.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/vsx_utils.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/neon_utils.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/vsx_utils.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/assert.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/check.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/traits.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/saturate.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/fast_math.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/types.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/check.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/traits.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/saturate.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/fast_math.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/types.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cfloat \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include/float.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/bufferpool.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/persistence.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/operations.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/bufferpool.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/persistence.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/operations.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.inl.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/complex \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/sstream \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/sstream.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utility.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/optim.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/ovx.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/calib3d.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/features2d.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/miniflann.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/config.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/affine.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.defines.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logtag.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/async.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/version.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dict.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utility.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/optim.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/ovx.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/calib3d.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/features2d.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/miniflann.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/config.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/affine.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.defines.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logtag.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/async.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/version.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dict.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/map \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_tree.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_map.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_multimap.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/layer.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/utils/inference_engine.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/flann_base.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/general.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/matrix.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/params.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/any.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/saving.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/nn_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/result_set.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/layer.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/utils/inference_engine.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/flann_base.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/general.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/matrix.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/params.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/any.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/saving.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/nn_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/result_set.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/set \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_set.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_multiset.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/all_indices.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dynamic_bitset.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dist.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/heap.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/allocator.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/random.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_single_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kmeans_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/logger.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/composite_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/linear_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/hierarchical_clustering_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_table.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/all_indices.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/dynamic_bitset.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/dist.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/heap.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/allocator.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/random.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_single_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kmeans_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/logger.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/composite_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/linear_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/hierarchical_clustering_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_table.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iomanip \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/locale \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_facets_nonio.h \
@@ -3189,57 +3189,57 @@ CMakeFiles/main.dir/src/mycross.cpp.o: ../src/mycross.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_conv.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/quoted_string.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/math.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/autotuned_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/ground_truth.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/index_testing.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/timer.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/sampling.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/highgui.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgcodecs.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/videoio.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc/segmentation.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml/ml.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_board.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/face.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/barcode.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/photo.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda_types.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/autotuned_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/ground_truth.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/index_testing.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/timer.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/sampling.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/highgui.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgcodecs.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/videoio.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc/segmentation.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/ml.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/ml/ml.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_board.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/face.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/barcode.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/photo.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda_types.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/list \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_list.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/list.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util_inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util_inl.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/queue \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/deque \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_deque.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/deque.tcc \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_queue.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/seam_finders.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/blenders.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/tracking.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/background_segm.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/seam_finders.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/blenders.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video/tracking.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video/background_segm.hpp \
   ../include/json.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iterator \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stream_iterator.h \
@@ -3517,15 +3517,15 @@ CMakeFiles/main.dir/src/path_across.cpp.o: ../src/path_across.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/mutex \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/std_mutex.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/thread \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv_modules.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/version.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/hal/interface.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/opencv.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/opencv_modules.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/version.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/hal/interface.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstddef \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/base.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/base.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/climits \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/limits.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/syslimits.h \
@@ -3536,86 +3536,86 @@ CMakeFiles/main.dir/src/path_across.cpp.o: ../src/path_across.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/posix2_lim.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/xopen_lim.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/uio_lim.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstring \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/string.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/strings.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/neon_utils.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/vsx_utils.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/neon_utils.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/vsx_utils.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/assert.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/check.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/traits.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/saturate.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/fast_math.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/types.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/check.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/traits.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/saturate.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/fast_math.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/types.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cfloat \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include/float.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/bufferpool.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/persistence.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/operations.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/bufferpool.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/persistence.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/operations.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.inl.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/complex \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/sstream \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/sstream.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utility.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/optim.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/ovx.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/calib3d.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/features2d.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/miniflann.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/config.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/affine.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.defines.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logtag.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/async.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/version.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dict.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utility.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/optim.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/ovx.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/calib3d.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/features2d.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/miniflann.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/config.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/affine.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.defines.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logtag.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/async.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/version.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dict.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/map \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_tree.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_map.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_multimap.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/layer.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/utils/inference_engine.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/flann_base.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/general.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/matrix.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/params.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/any.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/saving.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/nn_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/result_set.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/layer.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/utils/inference_engine.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/flann_base.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/general.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/matrix.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/params.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/any.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/saving.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/nn_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/result_set.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/set \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_set.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_multiset.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/all_indices.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dynamic_bitset.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dist.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/heap.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/allocator.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/random.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_single_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kmeans_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/logger.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/composite_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/linear_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/hierarchical_clustering_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_table.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/all_indices.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/dynamic_bitset.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/dist.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/heap.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/allocator.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/random.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_single_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kmeans_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/logger.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/composite_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/linear_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/hierarchical_clustering_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_table.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iomanip \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/locale \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_facets_nonio.h \
@@ -3626,57 +3626,57 @@ CMakeFiles/main.dir/src/path_across.cpp.o: ../src/path_across.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_conv.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/quoted_string.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/math.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/autotuned_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/ground_truth.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/index_testing.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/timer.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/sampling.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/highgui.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgcodecs.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/videoio.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc/segmentation.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml/ml.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_board.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/face.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/barcode.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/photo.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda_types.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/autotuned_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/ground_truth.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/index_testing.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/timer.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/sampling.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/highgui.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgcodecs.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/videoio.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc/segmentation.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/ml.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/ml/ml.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_board.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/face.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/barcode.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/photo.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda_types.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/list \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_list.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/list.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util_inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util_inl.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/queue \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/deque \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_deque.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/deque.tcc \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_queue.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/seam_finders.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/blenders.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/tracking.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/background_segm.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/seam_finders.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/blenders.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video/tracking.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video/background_segm.hpp \
   ../include/json.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iterator \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stream_iterator.h \
@@ -3957,15 +3957,15 @@ CMakeFiles/main.dir/src/path_circle.cpp.o: ../src/path_circle.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/mutex \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/std_mutex.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/thread \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv_modules.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/version.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/hal/interface.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/opencv.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/opencv_modules.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/version.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/hal/interface.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstddef \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/base.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/base.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/climits \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/limits.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/syslimits.h \
@@ -3976,86 +3976,86 @@ CMakeFiles/main.dir/src/path_circle.cpp.o: ../src/path_circle.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/posix2_lim.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/xopen_lim.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/uio_lim.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstring \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/string.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/strings.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/neon_utils.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/vsx_utils.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/neon_utils.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/vsx_utils.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/assert.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/check.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/traits.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/saturate.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/fast_math.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/types.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/check.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/traits.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/saturate.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/fast_math.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/types.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cfloat \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include/float.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/bufferpool.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/persistence.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/operations.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/bufferpool.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/persistence.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/operations.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.inl.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/complex \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/sstream \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/sstream.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utility.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/optim.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/ovx.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/calib3d.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/features2d.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/miniflann.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/config.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/affine.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.defines.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logtag.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/async.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/version.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dict.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utility.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/optim.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/ovx.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/calib3d.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/features2d.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/miniflann.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/config.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/affine.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.defines.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logtag.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/async.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/version.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dict.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/map \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_tree.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_map.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_multimap.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/layer.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/utils/inference_engine.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/flann_base.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/general.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/matrix.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/params.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/any.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/saving.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/nn_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/result_set.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/layer.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/utils/inference_engine.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/flann_base.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/general.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/matrix.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/params.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/any.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/saving.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/nn_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/result_set.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/set \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_set.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_multiset.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/all_indices.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dynamic_bitset.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dist.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/heap.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/allocator.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/random.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_single_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kmeans_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/logger.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/composite_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/linear_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/hierarchical_clustering_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_table.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/all_indices.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/dynamic_bitset.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/dist.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/heap.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/allocator.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/random.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_single_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kmeans_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/logger.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/composite_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/linear_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/hierarchical_clustering_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_table.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iomanip \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/locale \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_facets_nonio.h \
@@ -4066,57 +4066,57 @@ CMakeFiles/main.dir/src/path_circle.cpp.o: ../src/path_circle.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_conv.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/quoted_string.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/math.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/autotuned_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/ground_truth.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/index_testing.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/timer.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/sampling.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/highgui.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgcodecs.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/videoio.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc/segmentation.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml/ml.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_board.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/face.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/barcode.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/photo.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda_types.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/autotuned_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/ground_truth.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/index_testing.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/timer.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/sampling.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/highgui.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgcodecs.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/videoio.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc/segmentation.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/ml.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/ml/ml.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_board.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/face.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/barcode.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/photo.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda_types.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/list \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_list.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/list.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util_inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util_inl.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/queue \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/deque \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_deque.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/deque.tcc \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_queue.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/seam_finders.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/blenders.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/tracking.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/background_segm.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/seam_finders.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/blenders.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video/tracking.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video/background_segm.hpp \
   ../include/json.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iterator \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stream_iterator.h \
@@ -4392,15 +4392,15 @@ CMakeFiles/main.dir/src/path_side_search.cpp.o: ../src/path_side_search.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/mutex \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/std_mutex.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/thread \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv_modules.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/version.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/hal/interface.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/opencv.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/opencv_modules.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/version.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/hal/interface.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstddef \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/base.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/base.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/climits \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/limits.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/syslimits.h \
@@ -4411,86 +4411,86 @@ CMakeFiles/main.dir/src/path_side_search.cpp.o: ../src/path_side_search.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/posix2_lim.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/xopen_lim.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/uio_lim.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstring \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/string.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/strings.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/neon_utils.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/vsx_utils.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/neon_utils.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/vsx_utils.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/assert.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/check.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/traits.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/saturate.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/fast_math.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/types.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/check.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/traits.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/saturate.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/fast_math.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/types.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cfloat \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include/float.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/bufferpool.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/persistence.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/operations.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/bufferpool.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/persistence.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/operations.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.inl.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/complex \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/sstream \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/sstream.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utility.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/optim.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/ovx.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/calib3d.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/features2d.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/miniflann.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/config.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/affine.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.defines.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logtag.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/async.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/version.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dict.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utility.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/optim.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/ovx.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/calib3d.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/features2d.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/miniflann.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/config.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/affine.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.defines.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logtag.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/async.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/version.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dict.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/map \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_tree.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_map.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_multimap.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/layer.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/utils/inference_engine.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/flann_base.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/general.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/matrix.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/params.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/any.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/saving.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/nn_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/result_set.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/layer.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/utils/inference_engine.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/flann_base.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/general.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/matrix.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/params.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/any.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/saving.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/nn_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/result_set.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/set \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_set.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_multiset.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/all_indices.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dynamic_bitset.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dist.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/heap.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/allocator.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/random.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_single_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kmeans_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/logger.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/composite_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/linear_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/hierarchical_clustering_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_table.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/all_indices.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/dynamic_bitset.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/dist.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/heap.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/allocator.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/random.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_single_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kmeans_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/logger.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/composite_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/linear_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/hierarchical_clustering_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_table.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iomanip \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/locale \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_facets_nonio.h \
@@ -4501,57 +4501,57 @@ CMakeFiles/main.dir/src/path_side_search.cpp.o: ../src/path_side_search.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_conv.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/quoted_string.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/math.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/autotuned_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/ground_truth.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/index_testing.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/timer.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/sampling.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/highgui.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgcodecs.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/videoio.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc/segmentation.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml/ml.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_board.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/face.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/barcode.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/photo.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda_types.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/autotuned_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/ground_truth.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/index_testing.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/timer.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/sampling.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/highgui.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgcodecs.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/videoio.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc/segmentation.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/ml.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/ml/ml.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_board.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/face.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/barcode.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/photo.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda_types.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/list \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_list.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/list.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util_inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util_inl.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/queue \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/deque \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_deque.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/deque.tcc \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_queue.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/seam_finders.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/blenders.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/tracking.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/background_segm.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/seam_finders.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/blenders.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video/tracking.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video/background_segm.hpp \
   ../include/json.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iterator \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stream_iterator.h \
@@ -4584,11 +4584,11 @@ CMakeFiles/main.dir/src/register.cpp.o: ../src/register.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/stdc-predef.h \
   ../include/register.h \
   ../include/base.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv_modules.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/version.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/opencv.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/opencv_modules.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/version.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/limits \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/c++config.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/os_defines.h \
@@ -4599,7 +4599,7 @@ CMakeFiles/main.dir/src/register.cpp.o: ../src/register.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/gnu/stubs.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/gnu/stubs-lp64.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/cpu_defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/hal/interface.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/hal/interface.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstddef \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include/stddef.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstdint \
@@ -4611,8 +4611,8 @@ CMakeFiles/main.dir/src/register.cpp.o: ../src/register.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/wchar.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/stdint-intn.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/stdint-uintn.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/base.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/base.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/climits \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/limits.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/syslimits.h \
@@ -4690,7 +4690,7 @@ CMakeFiles/main.dir/src/register.cpp.o: ../src/register.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/alloc_traits.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/memoryfwd.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/uniform_int_dist.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstring \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/string.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/strings.h \
@@ -4768,7 +4768,7 @@ CMakeFiles/main.dir/src/register.cpp.o: ../src/register.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/mathcalls.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/mathcalls-narrow.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/iscanonical.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/memory \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_uninitialized.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_raw_storage_iter.h \
@@ -4788,28 +4788,28 @@ CMakeFiles/main.dir/src/register.cpp.o: ../src/register.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/atomic_base.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/atomic_lockfree_defines.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/backward/auto_ptr.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/neon_utils.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/vsx_utils.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/neon_utils.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/vsx_utils.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/assert.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/check.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/traits.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/saturate.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/fast_math.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/types.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/check.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/traits.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/saturate.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/fast_math.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/types.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cfloat \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include/float.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/vector \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_vector.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_bvector.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/vector.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/bufferpool.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/persistence.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/operations.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/bufferpool.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/persistence.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/operations.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.inl.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/complex \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/sstream \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/istream \
@@ -4835,7 +4835,7 @@ CMakeFiles/main.dir/src/register.cpp.o: ../src/register.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/ostream.tcc \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/istream.tcc \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/sstream.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utility.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utility.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/functional \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/std_function.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/mutex \
@@ -4844,65 +4844,65 @@ CMakeFiles/main.dir/src/register.cpp.o: ../src/register.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/ctime \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/parse_numbers.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/std_mutex.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/optim.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/ovx.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/calib3d.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/features2d.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/miniflann.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/config.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/affine.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/optim.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/ovx.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/calib3d.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/features2d.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/miniflann.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/config.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/affine.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iostream \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.defines.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logtag.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/async.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/version.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dict.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.defines.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logtag.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/async.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/version.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dict.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/map \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_tree.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_map.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_multimap.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/layer.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/utils/inference_engine.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/flann_base.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/general.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/matrix.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/params.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/any.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/saving.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/nn_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/result_set.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/layer.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/utils/inference_engine.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/flann_base.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/general.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/matrix.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/params.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/any.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/saving.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/nn_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/result_set.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/set \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_set.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_multiset.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/all_indices.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dynamic_bitset.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dist.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/heap.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/all_indices.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/dynamic_bitset.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/dist.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/heap.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/unordered_map \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/hashtable.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/hashtable_policy.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/unordered_map.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/allocator.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/allocator.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/stdlib.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/random.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_single_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kmeans_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/logger.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/composite_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/linear_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/hierarchical_clustering_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_table.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/random.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_single_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kmeans_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/logger.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/composite_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/linear_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/hierarchical_clustering_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_table.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iomanip \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/locale \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_facets_nonio.h \
@@ -4914,57 +4914,57 @@ CMakeFiles/main.dir/src/register.cpp.o: ../src/register.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_conv.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/quoted_string.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/math.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/autotuned_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/ground_truth.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/index_testing.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/timer.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/sampling.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/highgui.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgcodecs.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/videoio.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc/segmentation.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml/ml.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_board.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/face.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/barcode.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/photo.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda_types.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/autotuned_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/ground_truth.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/index_testing.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/timer.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/sampling.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/highgui.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgcodecs.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/videoio.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc/segmentation.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/ml.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/ml/ml.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_board.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/face.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/barcode.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/photo.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda_types.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/list \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_list.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/list.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util_inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util_inl.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/queue \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/deque \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_deque.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/deque.tcc \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_queue.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/seam_finders.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/blenders.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/tracking.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/background_segm.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/seam_finders.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/blenders.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video/tracking.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video/background_segm.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/unistd.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/posix_opt.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/environments.h \
@@ -5989,18 +5989,18 @@ CMakeFiles/main.dir/src/zf_device_uvc.cpp.o: ../src/zf_device_uvc.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/alloca.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/stdlib-float.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/std_abs.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc/imgproc.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/version.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc/imgproc.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/version.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/limits \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/hal/interface.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/hal/interface.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstddef \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstdint \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/base.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv_modules.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cv_cpu_dispatch.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/base.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/opencv_modules.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/climits \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/limits.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/syslimits.h \
@@ -6049,7 +6049,7 @@ CMakeFiles/main.dir/src/zf_device_uvc.cpp.o: ../src/zf_device_uvc.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/alloc_traits.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/memoryfwd.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/uniform_int_dist.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstring \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cctype \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/ctype.h \
@@ -6114,7 +6114,7 @@ CMakeFiles/main.dir/src/zf_device_uvc.cpp.o: ../src/zf_device_uvc.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/mathcalls.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/mathcalls-narrow.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/iscanonical.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd_wrapper.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/memory \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_uninitialized.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_raw_storage_iter.h \
@@ -6134,28 +6134,28 @@ CMakeFiles/main.dir/src/zf_device_uvc.cpp.o: ../src/zf_device_uvc.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/atomic_base.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/atomic_lockfree_defines.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/backward/auto_ptr.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/neon_utils.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/vsx_utils.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/neon_utils.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/vsx_utils.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/assert.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/check.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/traits.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/saturate.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/fast_math.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/types.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/check.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/traits.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/saturate.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/fast_math.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/types.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cfloat \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include/float.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/vector \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_vector.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_bvector.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/vector.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/bufferpool.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/persistence.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/operations.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/bufferpool.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/persistence.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/operations.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.inl.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/complex \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/sstream \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/istream \
@@ -6181,7 +6181,7 @@ CMakeFiles/main.dir/src/zf_device_uvc.cpp.o: ../src/zf_device_uvc.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/ostream.tcc \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/istream.tcc \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/sstream.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utility.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utility.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/functional \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/std_function.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/mutex \
@@ -6190,70 +6190,70 @@ CMakeFiles/main.dir/src/zf_device_uvc.cpp.o: ../src/zf_device_uvc.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/ctime \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/parse_numbers.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/std_mutex.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/optim.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/ovx.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc/segmentation.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/highgui/highgui.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/highgui.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgcodecs.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/videoio.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/calib3d.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/features2d.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/miniflann.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/config.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/affine.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/optim.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/ovx.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgproc/segmentation.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/highgui/highgui.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/highgui.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/imgcodecs.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/videoio.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/opencv.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/calib3d.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/features2d.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/miniflann.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/config.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/affine.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iostream \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.defines.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logtag.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/async.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/version.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dict.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.defines.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logtag.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/async.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/version.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dict.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/map \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_tree.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_map.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_multimap.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/layer.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/utils/inference_engine.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/flann_base.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/general.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/matrix.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/params.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/any.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/saving.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/nn_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/result_set.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/layer.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/utils/inference_engine.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/flann_base.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/general.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/matrix.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/params.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/any.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/saving.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/nn_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/result_set.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/set \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_set.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_multiset.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/all_indices.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dynamic_bitset.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dist.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/heap.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/all_indices.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/dynamic_bitset.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/dist.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/heap.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/unordered_map \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/hashtable.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/hashtable_policy.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/unordered_map.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/allocator.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/random.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_single_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kmeans_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/logger.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/composite_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/linear_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/hierarchical_clustering_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_table.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/allocator.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/random.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_single_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/kmeans_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/logger.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/composite_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/linear_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/hierarchical_clustering_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_table.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iomanip \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/locale \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_facets_nonio.h \
@@ -6265,52 +6265,52 @@ CMakeFiles/main.dir/src/zf_device_uvc.cpp.o: ../src/zf_device_uvc.cpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_conv.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/quoted_string.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/math.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/autotuned_index.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/ground_truth.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/index_testing.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/timer.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/sampling.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml/ml.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_board.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/face.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/barcode.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/photo.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda_types.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/autotuned_index.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/ground_truth.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/index_testing.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/timer.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/flann/sampling.h \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/ml.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/ml/ml.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_board.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/face.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/charuco_detector.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/barcode.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/photo.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda_types.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/list \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_list.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/list.tcc \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util_inl.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util_inl.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/queue \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/deque \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_deque.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/deque.tcc \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_queue.h \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/seam_finders.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/blenders.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/tracking.hpp \
-  /home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/background_segm.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/seam_finders.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/blenders.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video/tracking.hpp \
+  /home/zmr/Desktop/install/include/opencv4/opencv2/video/background_segm.hpp \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/fstream \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/basic_file.h \
   /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/c++io.h \
@@ -7336,19 +7336,25 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
   ../include/zf_driver_file.h
 
 
-../src/zf_driver_pwm.cpp:
-
 ../src/zf_driver_pit.cpp:
+
+../src/zf_driver_encoder.cpp:
 
 ../src/zf_driver_adc.cpp:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc/imgproc.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/highgui/highgui.hpp:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/imgproc/imgproc.hpp:
+
+../src/zf_device_imu_core.cpp:
 
 ../src/zf_device_imu660rb.cpp:
 
 ../src/zf_device_imu660ra.cpp:
 
 ../src/zf_common_font.cpp:
+
+../src/register.cpp:
 
 ../src/path_side_search.cpp:
 
@@ -7362,15 +7368,21 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 ../include/zf_device_imu660ra.h:
 
-../include/zf_device_imu_core.h:
+../include/zf_device_ips200_fb.h:
 
-../include/zf_driver_pwm.h:
+../include/zf_driver_gpio.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/sigthread.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/struct_sigstack.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/stack_t.h:
+
+../src/zf_driver_gpio.cpp:
+
+../src/zf_device_uvc.cpp:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/sigcontext.h:
 
 ../include/zf_driver_delay.h:
 
@@ -7398,13 +7410,11 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/asm-generic/types.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/linux/fb.h:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/linux/ioctl.h:
-
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/sys/ioctl.h:
 
 ../include/zf_common_typedef.h:
+
+../include/zf_common_font.h:
 
 ../include/zf_common_headfile.h:
 
@@ -7412,25 +7422,21 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 ../include/AAAdefine.h:
 
+../include/PID.h:
+
 ../include/libdata_store.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cassert:
+../include/path.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/indirect_array.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/mask_array.h:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/gslice_array.h:
-
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/gslice.h:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/valarray_after.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/valarray_before.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/valarray_array.tcc:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/atomic:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/valarray_array.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/forward_list.h:
 
@@ -7442,9 +7448,9 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/sys/ttydefaults.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_numeric.h:
-
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/numeric:
+
+../include/common_system.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/ioctl-types.h:
 
@@ -7466,7 +7472,7 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/struct_iovec.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/fcntl-linux.h:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/fcntl.h:
 
 ../include/zf_device_imu963ra.h:
 
@@ -7480,75 +7486,81 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/unistd.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/background_segm.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/video/background_segm.hpp:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video/tracking.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/video/tracking.hpp:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/video.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/blenders.hpp:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/blenders.hpp:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/seam_finders.hpp:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/camera.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/seam_finders.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_queue.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/deque:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util_inl.hpp:
 
-../src/zf_driver_gpio.cpp:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/mask_array.h:
 
-../src/zf_device_uvc.cpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/sigcontext.h:
+/home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/motion_estimators.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda_types.hpp:
 
-../src/zf_device_imu_core.cpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.hpp:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/matchers.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/warpers.hpp:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/highgui/highgui.hpp:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/gslice_array.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers_inl.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/stitching.hpp:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/barcode.hpp:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/charuco_detector.hpp:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/fstream.tcc:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_detector.hpp:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/warpers.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/ml.hpp:
 
-../include/zf_common_font.h:
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/sampling.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching.hpp:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/fcntl-linux.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/fcntl.h:
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/timer.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/autotuned_index.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/atomic:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_detector.hpp:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/valarray_array.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/sampling.h:
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_table.h:
 
-../include/path.h:
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/hierarchical_clustering_index.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/ground_truth.h:
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/linear_index.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/autotuned_index.h:
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/kmeans_index.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/composite_index.h:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/linux/ioctl.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/random.h:
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_single_index.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_index.h:
+../include/zf_device_imu_core.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/allocator.h:
+../include/zf_driver_pwm.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/allocator.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/unordered_map.h:
 
@@ -7556,53 +7568,61 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/unordered_map:
 
-../src/register.cpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/dist.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dist.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_index.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/result_set.h:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/valarray_after.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/saving.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/general.h:
-
-../include/zf_driver_gpio.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/flann_base.hpp:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/utils/inference_engine.hpp:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/face.hpp:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_tree.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml/ml.inl.hpp:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/index_testing.h:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/map:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/version.hpp:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.hpp:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logtag.hpp:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.defines.hpp:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utils/logger.hpp:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/defines.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/features2d.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/all_indices.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_set.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv.hpp:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/set:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/any.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/params.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/general.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/cuda.inl.hpp:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann.hpp:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/dnn/utils/inference_engine.hpp:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.inl.hpp:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/matrix.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/dnn/layer.hpp:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_tree.h:
+
+../include/register.h:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/termios.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dict.hpp:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/dnn/version.hpp:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/dnn/dnn.hpp:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/stitching/warpers.hpp:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logtag.hpp:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_numeric.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.defines.hpp:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/utils/logger.hpp:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/affine.hpp:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/defines.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/miniflann.hpp:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/opencv.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/getopt_posix.h:
 
@@ -7616,6 +7636,8 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 ../include/common_program.h:
 
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/async.hpp:
+
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_conv.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_facets_nonio.tcc:
@@ -7626,11 +7648,9 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/messages_members.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/set:
+/home/zmr/Desktop/install/include/opencv4/opencv2/highgui.hpp:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc/segmentation.hpp:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/optim.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/ovx.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/std_mutex.h:
 
@@ -7648,13 +7668,17 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cwchar:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvdef.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/videoio.hpp:
-
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/string.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/ext/numeric_traits.h:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/wchar.h:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/map:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.hpp:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_relops.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/stat.h:
 
@@ -7670,25 +7694,37 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/byteswap.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/ext/alloc_traits.h:
-
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/cxxabi_init_exception.h:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/mathcalls-helper-functions.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/exception:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/timer.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kmeans_index.h:
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/kdtree_index.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/new:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/forward_list.tcc:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/params.h:
+/home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/exposure_compensate.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_construct.h:
 
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_heap.h:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/ext/atomicity.h:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/unique_ptr.h:
+
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/alloca.h:
+
+../include/carControl.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/optim.hpp:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_tempbuf.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/ml/ml.inl.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/clock_t.h:
 
@@ -7696,7 +7732,7 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/strings.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/vsx_utils.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/pthreadtypes.h:
 
@@ -7704,15 +7740,13 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/waitflags.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_map.h:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/gthr.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/logger.h:
-
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_pair.h:
 
 ../src/zf_driver_delay.cpp:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/matchers.hpp:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.inl.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/struct_timeval.h:
 
@@ -7726,9 +7760,15 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/postypes.h:
 
+../include/zf_driver_adc.h:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/concept_check.h:
+
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/ctime:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/localefwd.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/operations.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/siginfo-consts.h:
 
@@ -7748,19 +7788,9 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/endian.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/kdtree_single_index.h:
-
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/time_t.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/quoted_string.h:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/clockid_t.h:
-
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/locale_t.h:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/siginfo-arch.h:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/floatn-common.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/stdint-uintn.h:
 
@@ -7768,9 +7798,13 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/floatn.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/ctype.h:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_map.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/affine.hpp:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/gthr.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd.inl.hpp:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/waitstatus.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstdlib:
 
@@ -7796,29 +7830,23 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/atomic_base.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_iterator.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgproc.hpp:
-
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_raw_storage_iter.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/lsh_table.h:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_list.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/os_defines.h:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/wchar.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/__sigset_t.h:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/climits:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/photo.hpp:
+../include/Perspective.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/struct_timespec.h:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/type_traits:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/hierarchical_clustering_index.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dnn.inl.hpp:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/utility:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/stdint-intn.h:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_iterator.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/cv_cpu_dispatch.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/sys/types.h:
 
@@ -7836,81 +7864,83 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/posix_opt.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/linear_index.h:
-
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/gnu/stubs-lp64.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/hash_bytes.h:
 
+/home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/util.hpp:
+
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/std_abs.h:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include/stdbool.h:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_facets_nonio.h:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/linux/limits.h:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/std_function.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stringfwd.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/gnu/stubs.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/waitstatus.h:
-
-../src/zf_driver_encoder.cpp:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/base.hpp:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/dynamic_bitset.h:
+/home/zmr/Desktop/install/include/opencv4/opencv2/opencv_modules.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstddef:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_list.h:
+/home/zmr/Desktop/install/include/opencv4/opencv2/core.hpp:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/wchar.h:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/asm/ioctl.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/climits:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/predefined_ops.h:
 
-../include/Perspective.h:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/struct_tm.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/imgcodecs.hpp:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/utility:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include/stdbool.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/objdetect.hpp:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_facets_nonio.h:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/std_function.h:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/linux/limits.h:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/ext/alloc_traits.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/libc-header-start.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_heap.h:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/os_defines.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/ext/atomicity.h:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/__sigset_t.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/mathcalls-helper-functions.h:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/ctype.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/base.hpp:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann.hpp:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/struct_timespec.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/unique_ptr.h:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/type_traits:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/version.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/flann_base.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/sys/select.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/stdc-predef.h:
 
-../include/carControl.h:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/limits.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_tempbuf.h:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstdint:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cv_cpu_dispatch.h:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include/stdint.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stream_iterator.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/c++config.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/hal/interface.h:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/__fpos_t.h:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/limits:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/features.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/algorithmfwd.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/dynamic_bitset.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/locale:
 
@@ -7922,41 +7952,25 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/tuple:
 
-../include/zf_device_ips200_fb.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.hpp:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/ml.hpp:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/types.hpp:
-
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/sigset_t.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/ctype_inline.h:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstdint:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/limits.h:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include/stdint.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.hpp:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/streambuf.tcc:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/barcode.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/nested_exception.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/fcntl.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/graphical_code_detector.hpp:
-
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_facets.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include/stddef.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/any.h:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/cpp_type_traits.h:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/siginfo-arch.h:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/floatn-common.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/version.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/wordsize.h:
 
@@ -7966,13 +7980,9 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/istream.tcc:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/opencv_modules.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/composite_index.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/typeinfo:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/complex:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/FILE.h:
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/nn_index.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/asm-generic/errno.h:
 
@@ -7982,29 +7992,19 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/functexcept.h:
 
-../include/register.h:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/termios.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/charuco_detector.hpp:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd_wrapper.hpp:
-
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/debug/assertions.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iostream:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/atomic_lockfree_defines.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/config.h:
-
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/lib/gcc/loongarch64-linux-gnu/8.3.0/include-fixed/syslimits.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/ext/string_conversions.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/ovx.hpp:
-
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/timer_t.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/aruco_board.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/mathcalls.h:
 
@@ -8012,21 +8012,19 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/posix1_lim.h:
 
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/result_set.h:
+
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/limits.h:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/local_lim.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/typesizes.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/posix2_lim.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/wchar.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/matx.inl.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/stitching/detail/camera.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/move.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/traits.hpp:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_relops.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_iterator_base_funcs.h:
 
@@ -8036,21 +8034,23 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 ../src/zf_common_function.cpp:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect/aruco_board.hpp:
-
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/mbstate_t.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/basic_ios.tcc:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/imgcodecs.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/check.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/uio_lim.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/traits.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/wctype.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/c++io.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/sstream.tcc:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/video.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/algorithm:
 
@@ -8062,27 +8062,19 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/stdint.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/async.hpp:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/__fpos_t.h:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/limits:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/features.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/vsx_utils.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/imgproc/segmentation.hpp:
 
 ../main.cpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_iterator_base_types.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/nn_index.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/asm/errno.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/initializer_list:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/asm-generic/ioctl.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/calib3d.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/uses_allocator.h:
 
@@ -8100,8 +8092,6 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 ../include/zf_device_uvc.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/miniflann.hpp:
-
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/endian.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_function.h:
@@ -8110,11 +8100,19 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/locale.h:
 
+/home/zmr/Desktop/install/include/opencv4/opencv2/photo.hpp:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/quoted_string.h:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/clockid_t.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/cvdef.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/fast_math.hpp:
+
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/locale.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/iosfwd:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/heap.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/ostream_insert.h:
 
@@ -8125,6 +8123,8 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/vector:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_deque.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/ground_truth.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/cxxabi_forced.h:
 
@@ -8144,6 +8144,8 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/sigval_t.h:
 
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/random.h:
+
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/stdlib-float.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/linux/errno.h:
@@ -8152,13 +8154,11 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/asm-generic/errno-base.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda_types.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/error_constants.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/linux/posix_types.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/warpers.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/gthr-default.h:
 
@@ -8176,8 +8176,6 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 ../src/libdata_process.cpp:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/saturate.hpp:
-
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/time.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/codecvt.h:
@@ -8192,19 +8190,9 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/timex.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/asm/ioctl.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/all_indices.h:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/predefined_ops.h:
-
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/struct_tm.h:
-
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/string:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/struct_itimerspec.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/mat.inl.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/setjmp.h:
 
@@ -8215,8 +8203,6 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/stl_uninitialized.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/atomic_word.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/objdetect.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cstdio:
 
@@ -8236,6 +8222,8 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/sys_errlist.h:
 
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/heap.h:
+
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/ext/type_traits.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/errno.h:
@@ -8244,11 +8232,19 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/error_t.h:
 
+/home/zmr/Desktop/install/include/opencv4/opencv2/objdetect/face.hpp:
+
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/functional_hash.h:
 
 ../src/Perspective.cpp:
 
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/index_testing.h:
+
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/ostream:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/config.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/imgproc.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/basic_string.tcc:
 
@@ -8262,9 +8258,9 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 ../src/zf_driver_file.cpp:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/highgui.hpp:
-
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/functional:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/hal/interface.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/fp-logb.h:
 
@@ -8277,6 +8273,16 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/exception.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/iscanonical.h:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/linux/fb.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/cvstd_wrapper.hpp:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/saving.h:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/exception_defines.h:
+
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/shared_ptr_atomic.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/ext/concurrence.h:
 
@@ -8296,35 +8302,29 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/ss_flags.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/stitching/detail/util_inl.hpp:
-
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/__locale_t.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/refwrap.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/dnn.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cerrno:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/ext/aligned_buffer.h:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/exception_defines.h:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cassert:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/shared_ptr_atomic.h:
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/lsh_index.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/neon_utils.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/saturate.hpp:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/cpp_type_traits.h:
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/matx.inl.hpp:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/check.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/utility.hpp:
 
-../include/common_system.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/fast_math.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/types.hpp:
 
 ../src/opencv_Code.cpp:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/dict.hpp:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/calib3d.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cfloat:
 
@@ -8342,48 +8342,48 @@ CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o: ../src/zf_driver_pwm.cpp \
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/sstream:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/local_lim.h:
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/mat.hpp:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/bufferpool.hpp:
+../src/zf_driver_pwm.cpp:
 
-../include/zf_driver_adc.h:
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/persistence.hpp:
 
-/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/concept_check.h:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/typeinfo:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/operations.hpp:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/types/FILE.h:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/dnn/layer.hpp:
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/complex:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cvstd.inl.hpp:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/persistence.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/features2d.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_classes.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/sigaction.h:
 
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/bufferpool.hpp:
+
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_classes.tcc:
 
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/cuda.inl.hpp:
+/home/zmr/Desktop/install/include/opencv4/opencv2/core/neon_utils.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/streambuf:
 
+/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/streambuf.tcc:
+
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/basic_ios.h:
-
-../include/PID.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/core/utility.hpp:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cwctype:
 
+/home/zmr/Desktop/install/include/opencv4/opencv2/videoio.hpp:
+
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/wctype-wchar.h:
+
+/home/zmr/Desktop/install/include/opencv4/opencv2/flann/logger.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/cctype:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/loongarch64-linux-gnu/bits/ctype_base.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/bits/sigevent-consts.h:
-
-/home/zmr/Desktop/opencv_4_10_build/include/opencv4/opencv2/flann/matrix.h:
 
 /opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/loongarch64-linux-gnu/sysroot/usr/include/c++/8.3.0/bits/locale_facets.tcc:

@@ -1,0 +1,142 @@
+[
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/main.cpp.o -c /home/zmr/Desktop/opencv_vscode/main.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/main.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/PID.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/PID.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/PID.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/Perspective.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/Perspective.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/Perspective.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/carControl.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/carControl.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/carControl.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/display_show.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/display_show.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/display_show.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/libdata_process.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/libdata_process.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/libdata_process.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/libimage_process.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/libimage_process.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/libimage_process.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/mycross.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/mycross.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/mycross.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/opencv_Code.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/opencv_Code.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/opencv_Code.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/path_across.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/path_across.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/path_across.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/path_circle.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/path_circle.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/path_circle.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/path_side_search.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/path_side_search.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/path_side_search.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/register.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/register.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/register.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/zf_common_font.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/zf_common_font.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/zf_common_font.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/zf_common_function.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/zf_common_function.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/zf_common_function.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/zf_device_imu660ra.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/zf_device_imu660ra.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/zf_device_imu660ra.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/zf_device_imu660rb.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/zf_device_imu660rb.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/zf_device_imu660rb.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/zf_device_imu963ra.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/zf_device_imu963ra.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/zf_device_imu963ra.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/zf_device_imu_core.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/zf_device_imu_core.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/zf_device_imu_core.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/zf_device_ips200_fb.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/zf_device_ips200_fb.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/zf_device_ips200_fb.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/zf_device_uvc.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/zf_device_uvc.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/zf_device_uvc.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/zf_driver_adc.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/zf_driver_adc.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/zf_driver_adc.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/zf_driver_delay.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/zf_driver_delay.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/zf_driver_delay.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/zf_driver_encoder.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/zf_driver_encoder.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/zf_driver_encoder.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/zf_driver_file.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/zf_driver_file.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/zf_driver_file.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/zf_driver_gpio.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/zf_driver_gpio.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/zf_driver_gpio.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/zf_driver_pit.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/zf_driver_pit.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/zf_driver_pit.cpp"
+},
+{
+  "directory": "/home/zmr/Desktop/opencv_vscode/build",
+  "command": "/opt/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.3-1/bin/loongarch64-linux-gnu-g++  -I/home/zmr/Desktop/opencv_vscode/include -I/home/zmr/Desktop/opencv_vscode/./include/control -I/home/zmr/Desktop/install/include/opencv4 -g -o CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o -c /home/zmr/Desktop/opencv_vscode/src/zf_driver_pwm.cpp",
+  "file": "/home/zmr/Desktop/opencv_vscode/src/zf_driver_pwm.cpp"
+}
+]

@@ -18,17 +18,30 @@ uint64_t get_timestamp_us()
     ).count();
 }
 
+void pixelPidMath(int pixelOffset,JSON_PIDConfigData JSON_PIDConfigData_p,PIDStatus *pidStatus) 
+{
+    pidStatus->present = -pixelOffset;
+    pidStatus->target = 0;
+    pidStatus->time_present = get_timestamp_us() / 1000000.0;
+
+    PIDCalculate(&JSON_PIDConfigData_p.pixelpid, pidStatus);
+
+    // printf("Res:%f",pidStatus->Res);
+
+}
+
 // 将像素偏移量转化为角速度
-double pixelToSpeed(int pixelOffset,JSON_PIDConfigData JSON_PIDConfigData_p) 
+float pixelToSpeed(int pixelOffset,JSON_PIDConfigData JSON_PIDConfigData_p) 
 {   
     float x = float(pixelOffset) / 100.0;
-    float speed = JSON_PIDConfigData_p.anglespeedpid.Kp*x*x;
+    float speed = JSON_PIDConfigData_p.anglespeedpid.Kp*x;
+    // printf("pixelOffset:%d\tx:%f\tSpeed:%f\tkp:%f\n",pixelOffset,x,speed,JSON_PIDConfigData_p.anglespeedpid.Kp);
     MaxMinf(&speed,JSON_PIDConfigData_p.anglespeedpid.Reslimit);
     return speed;
 }
 
 // 将角速度转化为舵机角度
-double speedToServoAngle(double speed,JSON_PIDConfigData *JSON_PIDConfigData_p,PIDStatus *pidStatus,Data_Path *Data_Path_p) 
+float speedToServoAngle(double speed,JSON_PIDConfigData *JSON_PIDConfigData_p,PIDStatus *pidStatus,Data_Path *Data_Path_p) 
 {
     pidStatus->target = speed;
     pidStatus->present = imu660ra_gyro_z/100.0;

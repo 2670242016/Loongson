@@ -28,13 +28,16 @@ using Clock = std::chrono::steady_clock;
  */
 uint64_t get_timestamp_us() ;
 
+
+void pixelPidMath(int pixelOffset,JSON_PIDConfigData JSON_PIDConfigData_p,PIDStatus *pidStatus);
+
 /**
  * @brief   将像素偏移计算为目标角速度
  * @param   [in] pixelOffset  像素偏移量
  * @param   [in] JSON_PIDConfigData_p JSON文件储存的pid参数
  * @return  目标角速度
  */
-double pixelToSpeed(int pixelOffset,JSON_PIDConfigData JSON_PIDConfigData_p) ;
+float pixelToSpeed(int pixelOffset,JSON_PIDConfigData JSON_PIDConfigData_p) ;
 
 /**
  * @brief   将目标角速度转化为舵机角度
@@ -42,7 +45,7 @@ double pixelToSpeed(int pixelOffset,JSON_PIDConfigData JSON_PIDConfigData_p) ;
  * @param   [in] JSON_PIDConfigData_p JSON文件储存的pid参数
  * @return  目标角度
  */
-double speedToServoAngle(double speed,JSON_PIDConfigData *JSON_PIDConfigData_p,PIDStatus *pidStatus,Data_Path *Data_Path_p) ;
+float speedToServoAngle(double speed,JSON_PIDConfigData *JSON_PIDConfigData_p,PIDStatus *pidStatus,Data_Path *Data_Path_p) ;
 
 /**
  * @brief   将目标速度转化为电机PWM

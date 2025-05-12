@@ -524,16 +524,16 @@ main: CMakeFiles/main.dir/src/zf_driver_gpio.cpp.o
 main: CMakeFiles/main.dir/src/zf_driver_pit.cpp.o
 main: CMakeFiles/main.dir/src/zf_driver_pwm.cpp.o
 main: CMakeFiles/main.dir/build.make
-main: /home/zmr/Desktop/opencv_4_10_build/lib/libopencv_core.so
-main: /home/zmr/Desktop/opencv_4_10_build/lib/libopencv_imgproc.so
-main: /home/zmr/Desktop/opencv_4_10_build/lib/libopencv_highgui.so
-main: /home/zmr/Desktop/opencv_4_10_build/lib/libopencv_videoio.so
-main: /home/zmr/Desktop/opencv_4_10_build/lib/libopencv_imgcodecs.so
-main: /home/zmr/Desktop/opencv_4_10_build/lib/libopencv_core.so
-main: /home/zmr/Desktop/opencv_4_10_build/lib/libopencv_imgproc.so
-main: /home/zmr/Desktop/opencv_4_10_build/lib/libopencv_highgui.so
-main: /home/zmr/Desktop/opencv_4_10_build/lib/libopencv_videoio.so
-main: /home/zmr/Desktop/opencv_4_10_build/lib/libopencv_imgcodecs.so
+main: /home/zmr/Desktop/install/lib/libopencv_core.so
+main: /home/zmr/Desktop/install/lib/libopencv_imgproc.so
+main: /home/zmr/Desktop/install/lib/libopencv_highgui.so
+main: /home/zmr/Desktop/install/lib/libopencv_videoio.so
+main: /home/zmr/Desktop/install/lib/libopencv_imgcodecs.so
+main: /home/zmr/Desktop/install/lib/libopencv_core.so
+main: /home/zmr/Desktop/install/lib/libopencv_imgproc.so
+main: /home/zmr/Desktop/install/lib/libopencv_highgui.so
+main: /home/zmr/Desktop/install/lib/libopencv_videoio.so
+main: /home/zmr/Desktop/install/lib/libopencv_imgcodecs.so
 main: CMakeFiles/main.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/zmr/Desktop/opencv_vscode/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Linking CXX executable main"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/main.dir/link.txt --verbose=$(VERBOSE)
