@@ -29,15 +29,15 @@ ImgProcess imgProcess;
 Judge judge;
 SYNC Sync;
 
-double encoder_left;
-double encoder_right;
+int encoder_Left;
+int encoder_Right;
 struct pwm_info servo_pwm_info;
 
-PIDStatus motorleft;
-PIDStatus motorright;
 
 int servo_angle;
 
+float motorl,motorr;
+PIDStatus statusmotorl,statusmotorr;
 
 
 #if EXAMPLE_CODE == 0
@@ -46,8 +46,14 @@ int servo_angle;
 
 
 
-int main(void)
+int main(int argc, char *argv[])
 {
+    
+    // int temp_speedl = atoi(argv[1]);
+    // int temp_speedr = atoi(argv[2]);
+    // printf("Motor1:%d\tMotor2:%d\r\n",temp_speedl,temp_speedr);
+
+
     // ImagePerspective_Init(Img_Store_p,change_un_Mat);
     Sync.ConfigData_SYNC(Data_Path_p,Function_EN_p,JSON_PIDConfigData_p);
 
@@ -85,9 +91,11 @@ int main(void)
     ips200_full(RGB565_WHITE);
     #endif
 
+    double delta[4];
 
     while(Function_EN_p -> Game_EN == true)
     {   
+        delta[0] = get_timestamp_us() / 1000.0;
 
         if (gpio_get_level(KEY_3) == 0)
         {
@@ -107,7 +115,9 @@ int main(void)
             Data_Path_p -> JSON_TrackConfigData_v[0].Forward = Data_Path_p -> JSON_TrackConfigData_v[0].Default_Forward;
 
             // CameraImgGet(Img_Store_p);
+            delta[1] = get_timestamp_us() / 1000.0;
             Camera >> Img_Store_p -> Img_Color;
+            delta[2] = get_timestamp_us() / 1000.0;
 
             Img_Store_p->Img_Color = Img_Store_p->Img_Color(Range(img_resize_h,240),Range(0,320));
 
@@ -146,7 +156,7 @@ int main(void)
             // ImgPathSearch(Img_Store_p,Data_Path_p); // 赛道路径线寻线
             imgSearch_l_r(Img_Store_p,Data_Path_p);
 
-            judge.ServoDirAngle_Judge(Data_Path_p); // 舵机角度计算
+            judge.ServoDirAngle_Judge(Data_Path_p); // 舵机角度计算x
             judge.MotorSpeed_Judge(Img_Store_p,Data_Path_p);    // 电机速度决策
             Function_EN_p -> Loop_Kind_EN = CAMERA_CATCH_LOOP; // 切换至串口发送循环
 
@@ -204,6 +214,9 @@ int main(void)
         
         #if CARCODE == 1
 
+        /*****************************************************************************************************
+         * ***********************************      转向PID     **********************************************
+         * ***************************************************************************************************/
         PIDStatus pixelStatus;
         pixelPidMath(Data_Path_p->ServoAngle,JSON_PIDConfigData_c,&pixelStatus);
         servo_angle = pixelStatus.Res;
@@ -217,24 +230,59 @@ int main(void)
         
         // pwm_set_duty(SERVO_MOTOR1_PWM, (uint16)SERVO_MOTOR_DUTY(servo_angle));
         pwm_set_duty(SERVO_MOTOR1_PWM, (uint16)SERVO_MOTOR_DUTY((SERVO_MOTOR_L_MAX+SERVO_MOTOR_R_MAX)/2.0+Data_Path_p->ServoDir*servo_angle));
-        motorControl(JSON_PIDConfigData_p->speedl,JSON_PIDConfigData_p->speedr);
+        
 
-        imgProcess.ImgInflectionPointDraw(Img_Store_p,Data_Path_p); 
-        imgProcess.ImgBendPointDraw(Img_Store_p,Data_Path_p); 
-        imgProcess.ImgReferenceLine(Img_Store_p,Data_Path_p);
-        imgProcess.ImgLabel(Img_Store_p,Data_Path_p,Function_EN_p);
-        if (JSON_FunctionConfigData.VideoShow_EN == true){
+
+        /*****************************************************************************************************
+         * ***********************************      电机PID     **********************************************
+         * ***************************************************************************************************/
+        // motorControl(temp_speedl,temp_speedr);
+
+        // printf("%d,%d\r\n", encoder_Left,encoder_Right);
+        motorl = speedToMotorPWM(JSON_PIDConfigData_p->speedl,encoder_Left,JSON_PIDConfigData_c,&statusmotorl);
+        motorr = speedToMotorPWM(JSON_PIDConfigData_p->speedr,encoder_Right,JSON_PIDConfigData_c,&statusmotorr);
+        motorControl(motorr,motorl);
+
+        printf("%.2f,%.2f,%.2f,%.2f\r\n",statusmotorl.target,statusmotorr.target,statusmotorl.present,statusmotorr.present);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        for (int i = Data_Path_p->hightest; i < image_h-JSON_TrackConfigData.Path_Search_Start; i++)
+        {
+            Data_Path_p->center_line[i] = (Data_Path_p->l_border[i] + Data_Path_p->r_border[i]) >> 1;//求中线
+        }
+        
+        if (JSON_FunctionConfigData.VideoShow_EN == true)
+        {
+            imgProcess.ImgLabel(Img_Store_p,Data_Path_p,Function_EN_p);
+            imgProcess.ImgInflectionPointDraw(Img_Store_p,Data_Path_p); 
+            imgProcess.ImgBendPointDraw(Img_Store_p,Data_Path_p); 
+            imgProcess.ImgReferenceLine(Img_Store_p,Data_Path_p);
             if(JSON_FunctionConfigData.imgshownum == 0)
             {
                 displayMatOnIPS200(Img_Store_p->Img_Track); 
-            }else if(JSON_FunctionConfigData.imgshownum == 1)
+            }
+            else if(JSON_FunctionConfigData.imgshownum == 1)
             {
                 Mat resizedImg;
                 resize(Img_Store_p->Img_OTSU, resizedImg, cv::Size(240, 180));
                 uint8_t* image_otsu = new uint8_t[180 * 240];
                 const uint8_t* image_ptr = resizedImg.data;
-                for (int i = 0; i < 180; ++i) {
-                    for (int j = 0; j < 240; ++j) {
+                for (int i = 0; i < 180; ++i) 
+                {
+                    for (int j = 0; j < 240; ++j) 
+                    {
                         image_otsu[i * 240 + j] = image_ptr[i * resizedImg.step + j];
                     }
                 }
@@ -249,12 +297,15 @@ int main(void)
             // ips200_show_string(0,16*12,"GZ:");ips200_show_int(8*3,16*16,int32(imu660ra_gyro_z),5);
             // ips200_show_string(0,16*13,"Offset:");ips200_show_int(8*7,16*17,int32(Data_Path_p->ServoAngle),3);
 
+            display_data(12,"GZ:",imu660ra_gyro_z,5);
+            display_data(13,"Offset:",Data_Path_p->ServoAngle,3);
+            display_dataf(14,"angSpeed:",servo_angle,4,8);
         }
         
-        display_data(12,"GZ:",imu660ra_gyro_z,5);
-        display_data(13,"Offset:",Data_Path_p->ServoAngle,3);
-        display_dataf(14,"angSpeed:",servo_angle,4,8);
 
+        delta[3] = get_timestamp_us() / 1000.0;
+        // printf("img_ms:%.2f\tprocess_ms:%.2f\tall_ms:%.2f\n\r",delta[2]-delta[1],delta[3]-delta[2],delta[3]-delta[0]);
+        
         // speedToMotorPWM(Data_Path_p->MotorSpeed,JSON_PIDConfigData_c);
         // printf("SpeedL:%d\tSpeedR:%d\tAngle:%d\n\r",motorleft.Res,motorright.Res,servo_angle);
         // SERVO_MOTOR_DUTY(servo_angle);
@@ -279,13 +330,15 @@ void pit_callback(void)
 {
     imu660ra_get_acc();
     imu660ra_get_gyro();
-    encoder_left  = encoder_get_count(ENCODER_1);
-    encoder_right = encoder_get_count(ENCODER_2);
+    encoder_Left  = encoder_get_count(ENCODER_1);
+    encoder_Right = -encoder_get_count(ENCODER_2);
 }
 
 void sigint_handler(int signum) 
 {
     printf("收到Ctrl+C，程序即将退出\n");
+    pwm_set_duty(MOTOR1_PWM, 0);   
+    pwm_set_duty(MOTOR2_PWM, 0);   
     exit(0);
 }
 
@@ -448,4 +501,48 @@ int main(int argc, char *argv[])
         system_delay_ms(50);         
     }
 }
+#endif
+
+#if EXAMPLE_CODE == 4
+
+void cleanup()
+{
+    printf("程序异常退出，执行清理操作\n");
+    // 关闭电机
+    pwm_set_duty(MOTOR1_PWM, 0);   
+    pwm_set_duty(MOTOR2_PWM, 0);    
+}
+void sigint_handler(int signum) 
+{
+    printf("收到Ctrl+C，程序即将退出\n");
+    pwm_set_duty(MOTOR1_PWM, 0);   
+    pwm_set_duty(MOTOR2_PWM, 0);    
+    exit(0);
+}
+
+void pit_callback()
+{
+    encoder_Left  = encoder_get_count(ENCODER_1);
+    encoder_Right = encoder_get_count(ENCODER_2);
+}
+
+int main(int argc, char *argv[])
+{
+    atexit(cleanup);
+    signal(SIGINT, sigint_handler);
+    pit_ms_init(5, pit_callback);
+
+    int speedl = atoi(argv[1]);
+    int speedr = atoi(argv[2]);
+    printf("Motor1:%d\tMotor2:%d\r\n",speedl,speedr);
+    motorControl(speedl,speedr);
+    while(true)
+    {
+        printf("%d,%d\r\n", encoder_Left,encoder_Right);
+        system_delay_ms(5);
+    }
+
+
+}
+
 #endif

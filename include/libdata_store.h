@@ -264,6 +264,9 @@ typedef struct Data_Path
     int ServoDir = 0;  // 舵机方向
     int ServoAngle = 0;    // 舵机角度
     int MotorSpeed = 0;    // 电机速度
+
+    int findrow;
+
 }Data_Path;
 
 

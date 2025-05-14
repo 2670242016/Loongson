@@ -211,12 +211,14 @@ LoopKind Judge::TrackKind_Judge(Img_Store* Img_Store_p,Data_Path *Data_Path_p,Fu
 void Judge::ServoDirAngle_Judge(Data_Path *Data_Path_p)
 {
     JSON_TrackConfigData JSON_TrackConfigData = Data_Path_p -> JSON_TrackConfigData_v[0];
-    int find_row = (JSON_TrackConfigData.Forward)-(JSON_TrackConfigData.Path_Search_Start);
-    if (find_row > (image_h - Data_Path_p->hightest)) find_row = (image_h - Data_Path_p->hightest);
+    int find_row = JSON_TrackConfigData.Forward;
+    if (find_row < Data_Path_p->hightest) find_row = Data_Path_p->hightest + 10;
     
     (Data_Path_p -> ServoAngle) = (Data_Path_p -> center_line[find_row]) - image_w/2;
-    // printf("%d,%d,%d",(JSON_TrackConfigData.Forward)-(JSON_TrackConfigData.Path_Search_Start),Data_Path_p->hightest,find_row);
+    // printf("%d,%d,%d\r\n",(JSON_TrackConfigData.Forward)-(JSON_TrackConfigData.Path_Search_Start),Data_Path_p->hightest,find_row);
 
+    Data_Path_p->findrow = find_row;
+    
     // 计算舵机方向和角度
     if((Data_Path_p -> ServoAngle) < 0)
     {

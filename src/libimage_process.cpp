@@ -505,6 +505,7 @@ void ImgProcess::ImgReferenceLine(Img_Store *Img_Store_p,Data_Path *Data_Path_p)
 	line(Img_Store_p->Img_Track,Point(image_w-30,0),Point(image_w-30,image_h-1),Scalar(0,200,0),1);	// 右边线
 	line(Img_Store_p->Img_Track,Point(image_w/2,0),Point(image_w/2,image_h-1),Scalar(0,200,0),1);	// 中线
 
+	line(Img_Store_p->Img_Track,Point(0,Data_Path_p->findrow),Point(Img_Store_p->Img_Track.cols-1,Data_Path_p->findrow),Scalar(0,255,0),1);	// 前瞻点线
 }
 
 
@@ -549,7 +550,7 @@ void ImgProcess::ImgLabel(Img_Store *Img_Store_p,Data_Path *Data_Path_p,Function
 
 	for (int i = Data_Path_p->hightest; i < image_h-JSON_TrackConfigData.Path_Search_Start; i++)
 	{
-		Data_Path_p->center_line[i] = (Data_Path_p->l_border[i] + Data_Path_p->r_border[i]) >> 1;//求中线
+		// Data_Path_p->center_line[i] = (Data_Path_p->l_border[i] + Data_Path_p->r_border[i]) >> 1;//求中线
 
 		circle(Img_Store_p->Img_Track, Point(Data_Path_p->center_line[i],i), 1, Scalar(255, 140, 0), FILLED);//显示起点 显示中线	
 		circle(Img_Store_p->Img_Track, Point(Data_Path_p->l_border[i],i), 1, Scalar(0, 255, 255), FILLED);//显示起点 显示左边线

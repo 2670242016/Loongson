@@ -54,7 +54,7 @@ float speedToServoAngle(double speed,JSON_PIDConfigData *JSON_PIDConfigData_p,PI
  * @param   [out] motorleft  电机PWM
  * @param   [out] motorright  电机PWM
  */
-void speedToMotorPWM(double speed,JSON_PIDConfigData JSON_PIDConfigData_p) ;
+float speedToMotorPWM(float speed,int encoder,JSON_PIDConfigData JSON_PIDConfigData_p,PIDStatus *pidStatus) ;
 
 void motorControl(int motor1_pwm, int motor2_pwm);
 

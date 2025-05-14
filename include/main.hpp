@@ -114,11 +114,8 @@ extern Motorinfo motorinfo;
 
 extern pwm_info servo_pwm_info;
 
-extern PIDStatus motorleft;
-extern PIDStatus motorright;
-
-extern double encoder_left;
-extern double encoder_right;
+extern int encoder_left;
+extern int encoder_right;
 
 void pit_callback(void);
 void sigint_handler(int signum);

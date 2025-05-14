@@ -24,7 +24,7 @@ void pixelPidMath(int pixelOffset,JSON_PIDConfigData JSON_PIDConfigData_p,PIDSta
     pidStatus->target = 0;
     pidStatus->time_present = get_timestamp_us() / 1000000.0;
 
-    PIDCalculate(&JSON_PIDConfigData_p.pixelpid, pidStatus);
+    PIDCalculate(JSON_PIDConfigData_p.pixelpid, pidStatus);
 
     // printf("Res:%f",pidStatus->Res);
 
@@ -47,7 +47,7 @@ float speedToServoAngle(double speed,JSON_PIDConfigData *JSON_PIDConfigData_p,PI
     pidStatus->present = imu660ra_gyro_z/100.0;
     pidStatus->time_present = get_timestamp_us() / 1000000.0;
     
-    PIDCalculate(&JSON_PIDConfigData_p->servopid, pidStatus);
+    PIDCalculate(JSON_PIDConfigData_p->servopid, pidStatus);
 
     float servoAngle = (SERVO_MOTOR_L_MAX + SERVO_MOTOR_R_MAX) / 2.0 + Data_Path_p -> ServoDir*pidStatus->Res;
 
@@ -60,25 +60,17 @@ float speedToServoAngle(double speed,JSON_PIDConfigData *JSON_PIDConfigData_p,PI
     return servoAngle;
 }
 
-// 将目标速度转化为电机PWM
-void speedToMotorPWM(double speed,JSON_PIDConfigData JSON_PIDConfigData_p) 
+// 将目标速度转化为电机PWM 1400
+float speedToMotorPWM(float speed,int encoder,JSON_PIDConfigData JSON_PIDConfigData_p,PIDStatus *status) 
 {
-
-    motorleft.target = speed;
-    motorright.target = speed;
-
-    motorleft.present = encoder_left;
-    motorright.present = encoder_right;
-    
-    motorleft.time_present = get_timestamp_us() / 1000000.0;
-    motorright.time_present = get_timestamp_us() / 1000000.0;
-    
-    PIDCalculate(&JSON_PIDConfigData_p.servopid, &motorleft);
-    PIDCalculate(&JSON_PIDConfigData_p.servopid, &motorright);
-
-    motorleft.Res += speed;
-    motorright.Res += speed;
-    
+    PIDStatus motor;
+    motor.target = speed*28/100.0;
+    motor.present = float(encoder)/100.0;
+    motor.time_present = get_timestamp_us() / 1000000.0;
+    PIDCalculate(JSON_PIDConfigData_p.motorpid, &motor);
+    motor.Res += speed;
+    *status = motor;
+    return motor.Res;
 }
 
 // 将编码器转速转化为轮胎转速（m/s）

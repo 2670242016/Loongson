@@ -35,6 +35,6 @@ struct PID
 };
 
 void MaxMinf(float * val,float absval);
-void PIDCalculate(PID *pid,PIDStatus *pidstatus);
+void PIDCalculate(PID pid,PIDStatus *pidstatus);
 
 
